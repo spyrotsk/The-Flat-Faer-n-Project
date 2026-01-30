@@ -428,3 +428,42 @@
 *   **Actions**:
     *   *Boarding Pike*: +5 to hit, 1d10+3 piercing. Reach 10ft.
     *   *Net*: Ranged +5 to hit, target is restrained.
+
+---
+
+## Region 18: The Border Wastes
+*Elemental extremes and primeval giants.*
+
+### **Titanic Treant**
+*Gargantuan plant, neutral*
+*   **Armor Class**: 18 (Bark)
+*   **Hit Points**: 300 (20d20 + 100)
+*   **Actions**:
+    *   *Slam*: +14 to hit, 4d12+10 bludgeoning.
+    *   *Animate Trees*: Animates two trees to fight alongside it.
+
+### **Mutated Stalker (Irradiated Wastes)**
+*Medium monstrosity, chaotic evil*
+*   **Armor Class**: 15
+*   **Hit Points**: 60
+*   **Traits**:
+    *   *Radiation Aura*: Creatures within 5ft take 1d6 necrotic damage at turn start.
+*   **Actions**:
+    *   *Claw*: +6 to hit, 2d8+4 slashing + poison.
+
+---
+
+## Region 19: The Stone Men (Mu)
+*Living Statues and Ancient Sentinels.*
+
+### **Mu Stone Warrior**
+*Large construct, neutral*
+*   **Armor Class**: 19 (Stone)
+*   **Hit Points**: 110 (10d10 + 50)
+*   **Speed**: 25 ft.
+*   **Traits**:
+    *   *Eternal Watcher*: Does not breathe, eat, or sleep. Immune to petrification.
+*   **Actions**:
+    *   *Great-Club*: +8 to hit, 3d10+5 bludgeoning.
+    *   *Stomp*: DC 15 STR save or fall prone.
+

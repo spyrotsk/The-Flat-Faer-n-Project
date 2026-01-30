@@ -209,3 +209,27 @@ Located on the trade routes between the Inner and Outer rings.
     *   **Tarshish (The Fleet-Base)**: Home to the massive "Leviathan-Class" trade ships.
 *   **The Conflict**: Economic espionage. The players may be hired to smuggle "Forbidden Technology" past the blockade of the Royal Society.
 
+## Chapter 20: The Border Wastes (The Outermost Ring)
+**Theme**: Environmental Extremes, The Edge of Existence.
+
+The final ring before the "Walls of Asgard" and the Great Void.
+*   **Key Locations**:
+    *   **The Titanic Forest (North)**: Trees the size of mountains, inhabited by primeval giants.
+    *   **The Volcanic Wastes (East)**: Eternal rivers of lava and fire-elementals.
+    *   **The Sunken Wastes (South)**: A region where the ocean has partially drained away, leaving sea-beast skeletons and ancient ruins.
+    *   **The Scorched & Irradiated Wastes (West)**: Deserts of glass and mutated horrors from ancient "Sky-Wars".
+    *   **The Frozen Wastes (NE)**: Absolute zero temperatures where even time freezes.
+*   **The Conflict**: Survival against the elements. The Royal Society believes "The Source" of all Vril is hidden in the Titanic Forest.
+
+## Chapter 21: The Outer Continents (Eden, Terra Nova, Greater Lemuria)
+**Theme**: Utopia vs. Dystopia, The Cradle of Life.
+
+Major landmasses located in the secondary and tertiary rings.
+*   **Key Locations**:
+    *   **Eden**: A walled continent of perfect biology, suspected to be the origin of the human species.
+    *   **Terra Nova**: A new, raw continent still being shaped by the Custodians.
+    *   **Greater Lemuria**: The capital of the Lemurian Empire, far larger and more advanced than the colonies in Chapter 4.
+    *   **Athenia & Asclepia**: Centers of ancient philosophy and healing magic, respectively.
+*   **The Conflict**: Cultural collision. The people of Terra Nova are "blank slates" being programmed by the Greys. Players may try to "awaken" them.
+
+
