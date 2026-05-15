@@ -197,7 +197,7 @@ Descrizioni di popolazioni specifiche native degli Anelli.
 Nascosti nelle vette più alte del Mondo Conosciuto e degli Anelli Interni.
 *   **Luoghi Chiave**:
     *   **Shambhala (La Città di Cristallo)**: Una città di puro pensiero, accessibile solo tramite proiezione astrale o trovando il fisico "Cancello dell'Arcobaleno".
-    *   **Shangri-La**: Una valle dove il tempo si ferma. Gli abitanti hanno decine di migliaia di anni.
+    *   **Shangri-La**: Una valle dove il tempo si ferma. Gli abitanti have decine di migliaia di anni.
 *   **Il Conflitto**: La "Guerra Mentale". Entità oscure dall'Oscurità Esterna (Capitolo 5) cercano di corrompere la barriera psichica mantenuta dai monaci.
 
 ## Capitolo 19: I Regni Mercantili (Ophir e Tarshish)
@@ -212,7 +212,7 @@ Situati sulle rotte commerciali tra gli anelli Interni ed Esterni.
 ## Capitolo 20: Le Terre di Confine (L'Anello più Esterno)
 **Tema**: Estremi Ambientali, Il Limite dell'Esistenza.
 
-L'ultimo anello prima delle "Mura di Asgard" e del Grande Vuoto.
+L'anello più lontano prima delle "Mura di Asgard" e del Grande Vuoto.
 *   **Luoghi Chiave**:
     *   **La Foresta Titanica (Nord)**: Alberi delle dimensioni di montagne, abitata da giganti primordiali.
     *   **Le Lande Vulcaniche (Est)**: Eterni fiumi di lava ed elementali del fuoco.
@@ -231,3 +231,83 @@ Grandi masse terrestri situate nel secondo e terzo anello.
     *   **Greater Lemuria**: La capitale dell'Impero Lemuriano, molto più grande e avanzata delle colonie del Capitolo 4.
     *   **Athenia e Asclepia**: Centri, rispettivamente, della filosofia antica e della magia curativa.
 *   **Il Conflitto**: Collisione culturale. Gli abitanti di Terra Nova sono "tabula rasa" programmate dai Grigi. I giocatori potrebbero cercare di "risvegliarli".
+
+## Capitolo 22: La Repubblica Ancestrale (Lands of the First Ancestors)
+**Tema**: Steampunk d'Élite, Diplomazia, Origini.
+
+Situata immediatamente oltre il Muro di Ghiaccio, questa terra è il porto di ingresso ufficiale per chiunque voglia esplorare gli anelli esterni.
+*   **Luoghi Chiave**:
+    *   **Porto Boreale**: Una metropoli costruita su pilastri di magnetite, dove le aeronavi di tutti gli anelli si incontrano per commerciare.
+    *   **Il Senato degli Antichi**: Dove i rappresentanti degli "Alti Bianchi" governano il passaggio tra i mondi.
+*   **Il Conflitto**: Una guerra fredda tra la Repubblica e la Royal Society di Londra per il controllo dei dazi sul Vril.
+*   **Giocabilità**: I giocatori possono ottenere permessi di volo, assoldare guide esperte o essere coinvolti in trame di spionaggio industriale.
+
+## Capitolo 23: Atlantide (Il Continente Riemerso)
+**Tema**: Bio-Tech Antica, Rovine Sommerse, Mistero.
+
+Situato in una zona di forte instabilità sismica, questo leggendario continente sta riemergendo dalle profondità degli oceani intermedi.
+*   **Luoghi Chiave**:
+    *   **La Città delle Cupole di Cristallo**: Una metropoli sottomarina (parzialmente allagata) che contiene biblioteche di corallo nanotecnologico.
+    *   **Il Tridente di Poseidone**: Una massiccia piattaforma energetica che stabilizza la tettonica delle placche del domo.
+*   **Il Conflitto**: Gli abitanti originali (Sirenidi biopotenziati) non vedono di buon occhio gli "aeronaviganti" che saccheggiano le loro rovine.
+*   **Giocabilità**: Esplorazione subacquea (usando tute a pressione Vril), recupero di artefatti bio-meccanici e diplomazia con regni marini.
+
+## Capitolo 24: Terre di Horus e il Conflitto Solare
+**Tema**: Guerra nel Deserto, Vigilanza, Fanatismo.
+
+Distinte dalle terre di Ra per la loro natura militarista, le terre di Horus sono la "spada" degli dei egizi.
+*   **Luoghi Chiave**:
+    *   **Edfu Prime**: Una fortezza-piramide che ospita la leggendaria Flotta dei Falchi.
+    *   **La Valle dei Dimenticati**: Un confine conteso con le Terre di Set, dove le ombre prendono vita.
+*   **Il Conflitto**: Horus sta preparando un'invasione preventiva delle Terre di Marte per "portare ordine" negli anelli esterni.
+*   **Giocabilità**: Combattimenti su carri alati, infiltrazione in templi-fortezza e difesa di avamposti contro le incursioni delle ombre.
+
+## Capitolo 25: Terre di Mercurio e il Mercato di Hermes
+**Tema**: Velocità, Commercio, Caos.
+
+L'anello più piccolo e veloce, dove il tempo sembra scorrere diversamente a causa di anomalie gravitazionali.
+*   **Luoghi Chiave**:
+    *   **Il Grande Bazar di Argentum**: Un mercato che si sposta continuamente seguendo i "Venti di Luce".
+    *   **L’Accademia dei Messaggeri**: Dove si addestrano i piloti più veloci del mondo.
+*   **Il Conflitto**: Sindacati criminali controllano le rotte di contrabbando, sfidando l'autorità della Repubblica Ancestrale.
+*   **Giocabilità**: Gare di aeronavi attraverso canyon magnetici e missioni di consegna in tempi record.
+
+## Capitolo 26: Terre dei Cloni (I Laboratori dei Custodi)
+**Tema**: Identità, Etica, Distopia Genetica.
+
+Un esperimento fallito (o fin troppo riuscito) dei Custodi per preservare le razze dei cicli precedenti.
+*   **Luoghi Chiave**:
+    *   **Alpha-Genesis**: Una città sterile dove migliaia di cloni vivono vite pre-programmate.
+    *   **La Vasca di Scarto**: Una giungla di mutazioni dove vivono i cloni "imperfetti".
+*   **Il Conflitto**: Un movimento di resistenza tra i cloni ha scoperto di essere solo "bestiame genetico" e cerca l'aiuto di estranei.
+*   **Giocabilità**: Incontrare doppelgänger di se stessi o di figure storiche, decidere le sorti di una specie sintetica.
+
+## Capitolo 27: Reami di Nettuno e Urano (Le Prigioni di Ghiaccio)
+**Tema**: Horror Ghiacciato, Tecnologia Ancestrale, Isolamento.
+
+Situati ai bordi dell'influenza termica del sole centrale, questi reami sono mondi di ghiaccio eterno e tempesta liquida.
+*   **Luoghi Chiave**:
+    *   **Cripta-7 (Urano)**: Una prigione di massima sicurezza che ospita entità cosmiche catturate dai Custodi.
+    *   **Gli Oceani di Diamante (Nettuno)**: Dove la pressione è tale da cristallizzare il carbonio in aria.
+*   **Il Conflitto**: Qualcosa si è svegliato nelle cripte e sta cercando di manipolare il clima del domo per congelare il mondo centrale.
+*   **Giocabilità**: Sopravvivenza a temperature estreme, gestione delle riserve d'aria e combattimenti contro orrori primordiali liberati.
+
+## Capitolo 28: Arcipelago Moai (Le Isole Sentinella)
+**Tema**: Archeologia Gigantesca, Segnali, Comunicazione.
+
+Una catena di isole che formano un anello difensivo (o di avvertimento) attorno alle Terre Esterne.
+*   **Luoghi Chiave**:
+    *   **Rapa Nui II**: L'isola centrale, dove il "Grande Moai" rivolge lo sguardo non verso l'interno, ma verso le Mura di Asgard.
+    *   **Piattaforme del Segnale**: Antichi altari che, se attivati, emettono un raggio di luce coerente verso le stelle esterne.
+*   **Il Conflitto**: Cultisti del Vuoto cercano di sabotare i segnali per permettere a creature esterne di entrare nel domo.
+*   **Giocabilità**: Risoluzione di puzzle meccanici monumentali, scalata di statue giganti e decrittazione di codici antichi.
+
+## Capitolo 29: Nibiru e il Centro di Controllo Gravitazionale
+**Tema**: Dark Fantasy, Metafisica, Il Reset.
+
+L'anello finale prima della fine del mondo fisico. Un luogo dove la luce non arriva mai e il suolo è fatto di materia densa e scura.
+*   **Luoghi Chiave**:
+    *   **La Monade**: Una struttura piramidale nera rovesciata che funge da "ancora" per il domo.
+    *   **Le Lande del Silenzio**: Un deserto dove il suono non si propaga, abitato da esseri di puro pensiero.
+*   **Il Conflitto**: I Custodi stanno preparando Nibiru per il prossimo "Grande Reset". I giocatori devono decidere se sabotare il sistema o diventarne i nuovi guardiani.
+*   **Giocabilità**: Esplorazione con sensi alternativi, battaglie a gravità zero e scelte morali definitive.

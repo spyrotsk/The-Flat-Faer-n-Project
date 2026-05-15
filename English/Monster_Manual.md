@@ -1,53 +1,52 @@
-# Monster Manual: The Infinite Earth Bestiary
+# Monster Manual: Bestiary of the Infinite Earth
 
 ## Region 1: The Known World (Notum Mundo)
 *Creatures of Industry and Conspiracy.*
 
 ### **Clockwork Assassin**
 *Medium construct, lawful evil*
-*   **Armor Class**: 16 (Brass Plating)
+*   **Armor Class**: 16 (Brass Plates)
 *   **Hit Points**: 45 (6d8 + 18)
 *   **Speed**: 40 ft.
 *   **STR** 14 (+2), **DEX** 18 (+4), **CON** 16 (+3), **INT** 10 (0), **WIS** 10 (0), **CHA** 1 (-5)
 *   **Traits**:
-    *   *Steam-Powered Burst*: Can dash as a bonus action (recharge 5-6).
-    *   *Self-Destruct*: On death, explodes for 3d6 fire damage in a 10ft radius.
+    *   *Steam Burst*: Can dash as a bonus action (recharges on 5-6).
+    *   *Self-Destruct*: Upon death, explodes dealing 3d6 fire damage in a 10-foot radius.
 *   **Actions**:
-    *   *Pneumatic Wrist-Blade*: +6 to hit, 1d8+4 piercing damage.
+    *   *Pneumatic Wrist Blade*: +6 to hit, 1d8+4 piercing damage.
 
-### **Vril-Mutated Enforcer**
+### **Vril-Mutated Thug**
 *Medium humanoid, chaotic neutral*
 *   **Armor Class**: 13 (Leathery Skin)
 *   **Hit Points**: 60 (8d8 + 24)
 *   **Traits**:
     *   *Vril Madness*: Immune to fear/charm. Advantage on STR checks.
 *   **Actions**:
-    *   *Sledgehammer*: +5 to hit, 2d6+3 bludgeoning.
+    *   *Sledgehammer*: +5 to hit, 2d6+3 bludgeoning damage.
 
 ---
 
 ## Region 2: The Hyperborean Rings (Asgardia)
-*Megafauna and Mythic Beings.*
+*Megafauna and Mythical Beings.*
 
-### **Dread Mammoth**
-*Huge beast, unaligned*
+### **Terror Mammoth**
+*Gargantuan beast, unaligned*
 *   **Armor Class**: 14 (Natural Armor)
 *   **Hit Points**: 130 (12d12 + 50)
 *   **Speed**: 40 ft.
 *   **Actions**:
-    *   *Gore*: +10 to hit, 4d8+7 piercing. Target must succeed DC 18 STR save or be knocked prone.
-    *   *Trample*: 4d10+7 bludgeoning to prone targets.
+    *   *Gore*: +10 to hit, 4d8+7 piercing damage. Target must succeed on a DC 18 STR save or be knocked prone.
+    *   *Trample*: 4d10+7 bludgeoning damage to prone targets.
 
 ### **Ancestor Giant (The Tall Whites)**
 *Large giant, lawful neutral*
-*   **Armor Class**: 18 (Golden Plate)
+*   **Armor Class**: 18 (Gold Plate)
 *   **Hit Points**: 150 (12d10 + 60)
 *   **INT**: 18 (+4) | **CHA**: 16 (+3)
 *   **Traits**:
-    *   *Psychic Presence*: Creatures within 30ft must save DC 15 WIS or be Charmed (Awed).
-    *   *Psychic Presence*: Creatures within 30ft must save DC 15 WIS or be Charmed (Awed).
+    *   *Psychic Presence*: Creatures within 30 feet must succeed on a DC 15 WIS save or be Charmed (Subjugated).
 *   **Actions**:
-    *   *Sun-Spear*: Ranged weapon attack (range 100/300), +9 to hit, 3d8+5 radiant damage.
+    *   *Solar Spear*: Ranged weapon attack (range 100/300), +9 to hit, 3d8+5 radiant damage.
 
 ### **Storm Dragon (Asgardia/Valhalla)**
 *Huge dragon, chaotic neutral*
@@ -55,23 +54,23 @@
 *   **Hit Points**: 180 (15d12 + 75)
 *   **Speed**: 40 ft., fly 80 ft.
 *   **Actions**:
-    *   *Lightning Breath*: 60ft line, 8d8 lightning damage (DC 17 DEX save).
-    *   *Thunderclap*: Wing attack, all within 15ft take 2d8 thunder damage and knocked prone.
+    *   *Lightning Breath*: 60-foot line, 8d8 lightning damage (DC 17 DEX save for half).
+    *   *Wing Beat*: All creatures within 15 feet take 2d8 thunder damage and fall prone.
 
 ---
 
 ## Region 3: Lemuria (The Lost Lands)
-*Reptilian horrors and ancient bio-tech.*
+*Reptilian horrors and ancient bio-technology.*
 
 ### **Saurian Warrior**
-*Medium humanoid (lizardfolk), neutral evil*
+*Medium humanoid (lizardfolk), lawful evil*
 *   **Armor Class**: 15 (Natural Armor + Shield)
 *   **Hit Points**: 30 (4d8 + 12)
 *   **Traits**:
-    *   *Pack Tactics*: Advantage on attack if ally is within 5ft.
+    *   *Pack Tactics*: Advantage on attack rolls if an ally is within 5 feet of the target.
 *   **Actions**:
-    *   *Obsidian Macuahuitl*: +4 to hit, 1d8+2 slashing.
-    *   *Bite*: +4 to hit, 1d6+2 piercing.
+    *   *Obsidian Macuahuitl*: +4 to hit, 1d8+2 slashing damage.
+    *   *Bite*: +4 to hit, 1d6+2 piercing damage.
 
 ### **Apex Raptor**
 *Large beast, unaligned*
@@ -80,50 +79,50 @@
 *   **Speed**: 60 ft.
 *   **Actions**:
     *   *Multiattack*: One bite, two claws.
-    *   *Claw*: +6 to hit, 1d8+4 slashing.
+    *   *Claw*: +6 to hit, 1d8+4 slashing damage.
 
-### **Giant Scorpion (Egyptian/Scorpion Waste)**
+### **Giant Scorpion (Scorpion Desert)**
 *Large beast, unaligned*
 *   **Armor Class**: 15 (Natural Armor)
 *   **Hit Points**: 52 (7d10 + 14)
 *   **Actions**:
-    *   *Sting*: +5 to hit, 1d10+3 piercing + 4d6 poison damage (DC 12 CON save for half).
-    *   *Grapple*: Claws grapple target (DC 13 Escape).
+    *   *Sting*: +5 to hit, 1d10+3 piercing damage + 4d6 poison damage (DC 12 CON save for half).
+    *   *Grapple*: Pincers grab the target (DC 13 to escape).
 
-### **Bamboo Monkey-King (Lemuria/Mu)**
+### **Bamboo Monkey King (Lemuria/Mu)**
 *Medium fey, chaotic good*
 *   **Armor Class**: 16
 *   **Hit Points**: 40
 *   **Traits**:
     *   *Evasion*: Half damage on failed DEX save, no damage on success.
 *   **Actions**:
-    *   *Staff Strike*: +7 to hit, 1d8+4 bludgeoning.
-    *   *Taunt*: Target has disadvantage on attacks against anyone else.
+    *   *Staff Strike*: +7 to hit, 1d8+4 bludgeoning damage.
+    *   *Taunt*: Target has disadvantage on attacks against anyone else except the Monkey King.
 
-### **Atlantean Battle-Mage**
+### **Atlantean Battle Mage**
 *Medium humanoid, neutral*
 *   **Armor Class**: 12 (15 with Mage Armor)
 *   **Hit Points**: 45 (6d8 + 18)
 *   **Traits**:
     *   *Amphibious*: Can breathe air and water.
 *   **Actions**:
-    *   *Trident of Tides*: +4 to hit, 1d6+2 piercing.
-    *   *Hydro-Blast*: Ranged spell attack +6 to hit, 3d8 cold damage.
+    *   *Tide Trident*: +4 to hit, 1d6+2 piercing damage.
+    *   *Water Bolt*: Ranged spell attack, +6 to hit, 3d8 cold damage.
 
 ---
 
 ## Region 4: The Outer Darkness
-*Note: These creatures cause Madness on sight.*
+*Note: These creatures cause Madness upon sight.*
 
-### **Watcher (Grey Custodian)**
+### **Observer (Grey Keeper)**
 *Small aberration, lawful evil*
-*   **Armor Class**: 12 (15 with Psionic Shield)
+*   **Armor Class**: 12 (15 with Psychic Shield)
 *   **Hit Points**: 25 (6d6 + 6)
 *   **Traits**:
-    *   *Telepathy*: 120ft.
-    *   *Phase Shift*: Can turn invisible as a bonus action until it attacks.
+    *   *Telepathy*: 120 ft.
+    *   *Phase Shift*: Can become invisible as a bonus action until it attacks.
 *   **Actions**:
-    *   *Mind Flay*: One target, 60ft range. DC 14 INT save or take 3d6 psychic damage and be stunned 1 turn.
+    *   *Mind Whip*: One target, range 60 feet. DC 14 INT save or take 3d6 psychic damage and be stunned for 1 turn.
 
 ### **Void Shadow**
 *Medium undead/aberration, chaotic evil*
@@ -131,32 +130,32 @@
 *   **Hit Points**: 40
 *   **Resistances**: Non-magical physical damage.
 *   **Actions**:
-    *   *Life Drain*: +5 to hit, 2d6 necrotic damage. User heals half damage dealt.
+    *   *Life Drain*: +5 to hit, 2d6 necrotic damage. Attacker recovers HP equal to half damage dealt.
 
 ---
 
 ## Region 5: The Egyptian Continents (Anubis, Ra, Osiris)
-*God-beasts and Ancient Guardians.*
+*Divine beasts and ancient guardians.*
 
-### **Anubite Guard (Jackal-Kin)**
+### **Anubian Guard (Jackal)**
 *Medium humanoid, lawful neutral*
-*   **Armor Class**: 17 (Gold-infused splint)
+*   **Armor Class**: 17 (Gold-infused scale mail)
 *   **Hit Points**: 52 (8d8 + 16)
 *   **Traits**:
-    *   *Undying Loyalty*: Cannot be charmed or frightened while within sight of a commander.
-    *   *Soul Sight*: Can see invisible creatures up to 60ft.
+    *   *Eternal Loyalty*: Immune to fear/charm while seeing a commander.
+    *   *Soul Sight*: Sees invisible creatures up to 60 feet.
 *   **Actions**:
-    *   *Khopesh*: +6 to hit, 1d8+3 slashing.
-    *   *Sand Burst*: 15ft cone, 3d6 fire damage (Recharge 5-6).
+    *   *Khopesh*: +6 to hit, 1d8+3 slashing damage.
+    *   *Sand Puff*: 15-foot cone, 3d6 fire damage (Recharge 5-6).
 
-### **Sun-Born Phoenix**
+### **Sun Phoenix**
 *Large elemental, neutral good*
 *   **Armor Class**: 16
 *   **Hit Points**: 90 (10d10 + 35)
 *   **Traits**:
-    *   *Rebirth*: Explodes upon death (4d6 fire, 20ft radius) and leaves an egg. Hatching in 1d4 days.
+    *   *Rebirth*: Explodes upon death (4d6 fire, 20ft radius) leaving an egg. Hatches in 1d4 days.
 *   **Actions**:
-    *   *Fire Talon*: +7 to hit, 2d6+4 fire damage.
+    *   *Fire Claw*: +7 to hit, 2d6+4 fire damage.
 
 ---
 
@@ -168,7 +167,7 @@
 *   **Armor Class**: 14
 *   **Hit Points**: 50 (8d8 + 14)
 *   **Traits**:
-    *   *Perfect Reflection*: Can assume the exact stats (STR/DEX/CON) of a humanoid target it grapples.
+    *   *Perfect Reflection*: Can take the exact stats (STR/DEX/CON) of a humanoid it has grabbed.
 *   **Actions**:
     *   *Mirror Strike*: +5 to hit. Attacks twice if transformed.
 
@@ -182,18 +181,18 @@
 *   **Armor Class**: 18 (Powered Armor)
 *   **Hit Points**: 85 (10d8 + 40)
 *   **Traits**:
-    *   *Red Rage*: Advantage on melee attacks when below 50% HP.
+    *   *Red Fury*: Advantage on melee attacks if below 50% HP.
 *   **Actions**:
     *   *Plasma Rifle*: Ranged weapon attack (100/300), +7 to hit, 3d8+3 radiant damage.
-    *   *Vibro-Blade*: +7 to hit, 2d8+3 slashing.
+    *   *Vibro-Blade*: +7 to hit, 2d8+3 slashing damage.
 
-### **Venusian Fly-Trap (Sentient)**
+### **Venusian Carnivorous Plant**
 *Large plant, unaligned*
 *   **Armor Class**: 13 (Natural Armor)
 *   **Hit Points**: 70
 *   **Actions**:
-    *   *Entangle*: Roots grapple creatures in a 20ft radius. DC 14 STR to escape.
-    *   *Digest*: Grappled creature takes 2d6 acid damage at start of turn.
+    *   *Ensnare*: Roots grab creatures in a 20-foot radius. DC 14 STR save to escape.
+    *   *Digest*: Grappled creature takes 2d6 acid damage at the start of its turn.
 
 ---
 
@@ -207,28 +206,28 @@
 *   **Traits**:
     *   *Snow Camouflage*: Advantage on Stealth in snowy terrain.
 *   **Actions**:
-    *   *Rock Throw*: Ranged +6 to hit, 2d8+4 bludgeoning.
-    *   *Slam*: +6 to hit, 2d8+4 bludgeoning.
+    *   *Boulder Toss*: Ranged +6 to hit, 2d8+4 bludgeoning damage.
+    *   *Slam*: +6 to hit, 2d8+4 bludgeoning damage.
 
 ---
 
 ## Region 9: The Golden Empire (Amazonia)
-*Warriors of the Green Hell.*
+*Warriors of the green hell.*
 
 ### **Amazon Queen's Guard**
 *Medium humanoid, lawful neutral*
 *   **Armor Class**: 16 (Unarmored Defense)
 *   **Hit Points**: 65 (10d8 + 20)
 *   **Traits**:
-    *   *Jungle Stride*: Moving through difficult terrain costs no extra movement.
+    *   *Jungle Walk*: Difficult terrain costs no extra movement.
 *   **Actions**:
-    *   *Golden Spear*: +7 to hit, 1d8+4 piercing.
-    *   *Blowgun Volley*: Ranged +7 to hit, 1 piercing + 4d6 poison damage.
+    *   *Gold Spear*: +7 to hit, 1d8+4 piercing damage.
+    *   *Blowpipe Flurry*: Ranged +7 to hit, 1 piercing damage + 4d6 poison damage.
 
 ---
 
-## Region 10: The Heavy Realms (Saturnians)
-*Beings of Crystal and Gravity.*
+## Region 10: The Heavy Realms (Saturn)
+*Crystal Beings and Gravity.*
 
 ### **Saturnian Crystal Golem**
 *Large construct, lawful neutral*
@@ -236,9 +235,9 @@
 *   **Hit Points**: 120 (10d10 + 60)
 *   **Speed**: 20 ft.
 *   **Traits**:
-    *   *Gravity Well*: All creatures within 10ft must spend 2ft of movement for every 1ft moved.
+    *   *Gravity Well*: Creatures within 10 feet spend 2 feet of movement for every 1 foot moved.
 *   **Actions**:
-    *   *Crush*: +9 to hit, 4d8+5 bludgeoning.
+    *   *Crush*: +9 to hit, 4d8+5 bludgeoning damage.
 
 ---
 
@@ -250,144 +249,144 @@
 *   **Armor Class**: 12 (15 with Mage Armor)
 *   **Hit Points**: 40 (9d8)
 *   **Traits**:
-    *   *Vril Manipulation*: Can re-roll 1s on damage dice for spells.
+    *   *Vril Manipulation*: Can reroll 1s on spell damage dice.
 *   **Actions**:
-    *   *Black Lightning*: Ranged spell attack +7 to hit, 4d10 necrotic damage.
-    *   *Summon Shade*: Summons a Void Shadow (see Region 4) once per day.
+    *   *Black Bolt*: Ranged spell attack +7 to hit, 4d10 necrotic damage.
+    *   *Summon Shadow*: Summons one Void Shadow (see Region 4) once per day.
 
 ---
 
 ## Region 12: The Ancestral Seas
-*Horrors of the Deep.*
+*Horrors of the deep.*
 
 ### **Abyssal Kraken**
 *Gargantuan monstrosity, chaotic evil*
 *   **Armor Class**: 17 (Natural Armor)
 *   **Hit Points**: 250 (18d20 + 70)
 *   **Actions**:
-    *   *Tentacle Slam*: +12 to hit, 3d10+8 bludgeoning. Grappled target is restrained.
-    *   *Ink Cloud*: 60ft radius darkness.
+    *   *Tentacle*: +12 to hit, 3d10+8 bludgeoning damage. Target is grappled and restrained.
+    *   *Ink Cloud*: 60-foot radius of darkness.
 
-### **Sky-Whale**
+### **Sky Whale**
 *Gargantuan beast, unaligned*
 *   **Armor Class**: 14 (Blubber)
 *   **Hit Points**: 200
 *   **Traits**:
-    *   *Air Breather*: Can fly at speed 60ft.
+    *   *Air Breather*: Can fly at a speed of 60 ft.
 *   **Actions**:
-    *   *Song of Slumber*: DC 15 WIS save or fall asleep for 1 minute.
-    *   *Ram*: +10 to hit, 4d12+8 bludgeoning against structures/ships.
+    *   *Song of Sleep*: DC 15 WIS save or fall asleep for 1 minute.
+    *   *Ram*: +10 to hit, 4d12+8 bludgeoning damage against structures/ships.
 
 ---
 
-## Region 13: Marginalia & Anomalies
-*The weird things found in the corners of the map.*
+## Region 13: Marginalia and Anomalies
+*Strange things found at the map edges.*
 
-### **Blemmyae (The Headless Men)**
+### **Blemmyae (Headless Men)**
 *Medium humanoid, neutral*
 *   **Armor Class**: 14 (Hide Armor)
 *   **Hit Points**: 55 (6d10 + 20)
 *   **Traits**:
-    *   *Frightful Visage*: Face is on the chest. First time seeing one, DC 12 WIS save or be frightened.
+    *   *Scary Face*: Face is on the chest. Upon first sight, DC 12 WIS save or be frightened.
 *   **Actions**:
-    *   *Greataxe*: +6 to hit, 1d12+3 slashing.
+    *   *Greataxe*: +6 to hit, 1d12+3 slashing damage.
 
-### **Panotti (The All-Ears)**
+### **Panotti (Ear Men)**
 *Small humanoid, chaotic neutral*
 *   **Armor Class**: 12
 *   **Hit Points**: 20 (4d6 + 6)
 *   **Traits**:
-    *   *Sensitive Hearing*: Advantage on Perception based on hearing. Vulnerable to Thunder damage.
-    *   *Ear-Flight*: Can fly speed 30ft using ears as wings.
+    *   *Sensitive Hearing*: Advantage on WIS (Perception) based on hearing. Vulnerable to thunder damage.
+    *   *Ear Flight*: Can fly at 30 ft. using ears as wings.
 *   **Actions**:
-    *   *Dagger*: +4 to hit, 1d4+2 piercing.
+    *   *Dagger*: +4 to hit, 1d4+2 piercing damage.
 
-### **Cynocephalus (Dog-Headed Man)**
+### **Cynocephalus (Dog Man)**
 *Medium humanoid, lawful evil*
 *   **Armor Class**: 15 (Chain Shirt)
 *   **Hit Points**: 45 (6d8 + 18)
 *   **Traits**:
-    *   *Keen Smell*: Advantage on Perception based on smell.
+    *   *Keen Smell*: Advantage on WIS (Perception) based on smell.
 *   **Actions**:
-    *   *Bite*: +5 to hit, 1d6+3 piercing.
-    *   *Spear*: +5 to hit, 1d6+3 piercing.
+    *   *Bite*: +5 to hit, 1d6+3 piercing damage.
+    *   *Spear*: +5 to hit, 1d6+3 piercing damage.
 
 ---
 
-## Region 14: The Hidden Kingdoms (Small Folk)
-*Fey tricksters and cavern dwellers.*
+## Region 14: The Hidden Kingdoms (Little People)
+*Fey tricksters and cave dwellers.*
 
 ### **Leprechaun (Illusionist)**
 *Small fey, chaotic neutral*
 *   **Armor Class**: 15 (Luck)
 *   **Hit Points**: 25 (6d6 + 4)
 *   **Traits**:
-    *   *Irish Luck*: Can force an enemy to re-roll a successful attack (3/day).
-    *   *Rainbow Step*: Teleport 30ft as a bonus action.
+    *   *Irish Luck*: Can force an enemy to reroll a successful attack (3/day).
+    *   *Rainbow Step*: 30-foot teleport as a bonus action.
 *   **Actions**:
-    *   *Shillelagh*: +5 to hit, 1d8+2 bludgeoning (magical).
-    *   *Fool's Gold*: Casts *Major Image*.
+    *   *Shillelagh*: +5 to hit, 1d8+2 bludgeoning damage (magic).
+    *   *Fools' Gold*: Casts "Major Image".
 
 ### **Orc-Brownie (Hybrid)**
 *Small humanoid, chaotic evil*
 *   **Armor Class**: 13 (Leather)
 *   **Hit Points**: 15 (3d6 + 5)
 *   **Traits**:
-    *   *Aggressive Housekeeping*: Advantage on attacks against targets that are "messy" or disorganized.
+    *   *Aggressive Cleaning*: Advantage on attacks against "messy" targets.
 *   **Actions**:
-    *   *Cleaver*: +4 to hit, 1d6+2 slashing.
+    *   *Cleaver*: +4 to hit, 1d6+2 slashing damage.
 
-### **Deep Gnome (Svirfneblin) Tinkerer**
+### **Deep Gnome (Tinkerer)**
 *Small humanoid, neutral*
 *   **Armor Class**: 16 (Chain Shirt + Shield)
 *   **Hit Points**: 30 (5d6 + 10)
 *   **Actions**:
-    *   *Wrench*: +4 to hit, 1d6+2 bludgeoning.
-    *   *Flash-Bang Grenade*: 10ft radius, DC 13 CON save or blinded.
+    *   *Wrench*: +4 to hit, 1d6+2 bludgeoning damage.
+    *   *Flash Grenade**: 10-foot radius, DC 13 CON save or blinded.
 
 ### **Hobgoblin Mercenary**
 *Medium humanoid, lawful evil*
 *   **Armor Class**: 18 (Chain Mail + Shield)
 *   **Hit Points**: 35 (5d8 + 10)
 *   **Traits**:
-    *   *Martial Advantage*: Deals extra 2d6 damage if ally is within 5ft of target.
+    *   *Martial Advantage*: Deals extra 2d6 damage if an ally is within 5 feet of the target.
 *   **Actions**:
-    *   *Longsword*: +5 to hit, 1d8+3 slashing.
+    *   *Longsword*: +5 to hit, 1d8+3 slashing damage.
 
 ---
 
-## Region 15: Peoples of the Rings (NPCs)
-*Indigenous humanoids of the outer lands.*
+## Region 15: Ring Peoples (NPCs)
+*Native humanoids of the outer lands.*
 
 ### **Noshyvollo Nomad**
 *Large humanoid, neutral good*
 *   **Armor Class**: 14 (Thick Hides)
 *   **Hit Points**: 50 (5d10 + 20)
 *   **Traits**:
-    *   *Cold Resistance*: Immune to effects of extreme cold.
+    *   *Cold Resistance*: Immune to extreme cold effects.
 *   **Actions**:
-    *   *Heavy Spear*: +6 to hit, 2d6+4 piercing.
-    *   *Stone Song*: All allies within 30ft gain +2 AC for 1 minute (1/day).
+    *   *Heavy Spear*: +6 to hit, 2d6+4 piercing damage.
+    *   *Stone Song*: All allies within 30 feet get +2 to AC for 1 minute (1/day).
 
-### **Quiriva Mariner**
+### **Quiriva Sailor**
 *Medium humanoid, chaotic good*
 *   **Armor Class**: 13 (Coral Armor)
 *   **Hit Points**: 30 (4d8 + 8)
 *   **Actions**:
-    *   *Harpoon*: +5 to hit, 1d6+2 piercing. Range 20/60. Target is grappled if hit.
+    *   *Harpoon*: +5 to hit, 1d6+2 piercing damage. Range 20/60. Target is grappled if hit.
 
-### **Cibolan Gold-Guard**
+### **Cibolan Golden Guard**
 *Medium humanoid, lawful neutral*
-*   **Armor Class**: 18 (Golden Plate)
+*   **Armor Class**: 18 (Gold Plate Armor)
 *   **Hit Points**: 45 (6d8 + 12)
 *   **Actions**:
-    *   *Gilded Khopesh*: +6 to hit, 1d8+3 slashing.
-    *   *Blinding Reflection*: Reaction. When attacked in bright light, attacker has disadvantage.
+    *   *Golden Khopesh*: +6 to hit, 1d8+3 slashing damage.
+    *   *Blinding Reflection*: Reaction. If attacked in bright light, attacker has disadvantage.
 
 ---
 
-## Region 16: Guardians of the Enclaves (Shambhala)
-*Monks and Spirit-Warriors.*
+## Region 16: Enclave Guardians (Shambhala)
+*Monks and Spirit Warriors.*
 
 ### **Astral Monk**
 *Medium humanoid, lawful neutral*
@@ -397,57 +396,57 @@
     *   *Mind Shield*: Resistant to psychic damage.
 *   **Actions**:
     *   *Psychic Punch*: +7 to hit, 1d8+4 bludgeoning + 1d6 psychic damage.
-    *   *Astral Projection*: Can project an invulnerable scout spirit for 10 minutes.
+    *   *Astral Projection*: Projects an invulnerable spirit for 10 minutes.
 
-### **Temple Foo-Dog (Statue)**
+### **Temple Foo-Dog Statue**
 *Large construct, lawful neutral*
 *   **Armor Class**: 17 (Natural Armor)
 *   **Hit Points**: 85 (10d10 + 30)
 *   **Actions**:
-    *   *Roar of Judgment*: 30ft cone. All creatures must DC 15 WIS save or be frightened.
-    *   *Bite*: +7 to hit, 2d8+4 piercing.
+    *   *Roar of Judgment*: 30-foot cone. DC 15 WIS save or frightened.
+    *   *Bite*: +7 to hit, 2d8+4 piercing damage.
 
 ---
 
-## Region 17: Traders of the Golden Sea (Ophir)
+## Region 17: Golden Sea Merchants (Ophir)
 *Mercenaries and Merchants.*
 
-### **Ophirion Merchant-Prince**
+### **Ophirian Merchant Prince**
 *Medium humanoid, neutral evil*
 *   **Armor Class**: 12 (Fine Clothes)
 *   **Hit Points**: 40 (9d8)
 *   **Traits**:
-    *   *Bribery*: Can use a bonus action to offer gold to an enemy. Target must DC 14 WIS save or attack a different creature.
+    *   *Bribery*: Bonus action to offer gold. DC 14 WIS save or attack another target.
 *   **Actions**:
     *   *Hidden Dagger*: +5 to hit, 1d4+2 piercing + 2d6 sneak attack.
 
-### **Tarshish Marine**
+### **Tarshish Mariner**
 *Medium humanoid, lawful neutral*
 *   **Armor Class**: 16 (Chain Mail)
 *   **Hit Points**: 50 (8d8 + 14)
 *   **Actions**:
-    *   *Boarding Pike*: +5 to hit, 1d10+3 piercing. Reach 10ft.
+    *   *Boarding Pike*: +5 to hit, 1d10+3 piercing damage. Reach 10 ft.
     *   *Net*: Ranged +5 to hit, target is restrained.
 
 ---
 
-## Region 18: The Border Wastes
-*Elemental extremes and primeval giants.*
+## Region 18: The Borderlands
+*Elemental extremes and primordial giants.*
 
 ### **Titanic Treant**
 *Gargantuan plant, neutral*
 *   **Armor Class**: 18 (Bark)
 *   **Hit Points**: 300 (20d20 + 100)
 *   **Actions**:
-    *   *Slam*: +14 to hit, 4d12+10 bludgeoning.
+    *   *Slam*: +14 to hit, 4d12+10 bludgeoning damage.
     *   *Animate Trees*: Animates two trees to fight alongside it.
 
-### **Mutated Stalker (Irradiated Wastes)**
+### **Mutated Predator (Irradiated Wastes)**
 *Medium monstrosity, chaotic evil*
 *   **Armor Class**: 15
 *   **Hit Points**: 60
 *   **Traits**:
-    *   *Radiation Aura*: Creatures within 5ft take 1d6 necrotic damage at turn start.
+    *   *Radiation Aura*: Creatures within 5 feet take 1d6 necrotic damage at the start of their turn.
 *   **Actions**:
     *   *Claw*: +6 to hit, 2d8+4 slashing + poison.
 
@@ -464,6 +463,149 @@
 *   **Traits**:
     *   *Eternal Watcher*: Does not breathe, eat, or sleep. Immune to petrification.
 *   **Actions**:
-    *   *Great-Club*: +8 to hit, 3d10+5 bludgeoning.
-    *   *Stomp*: DC 15 STR save or fall prone.
+    *   **Heavy Mace**: +8 to hit, 3d10+5 bludgeoning damage.
+    *   **Stomp**: DC 15 STR save or knocked prone.
 
+---
+
+## Region 20: The Ancestral Republic
+*Elite warriors and steam technology.*
+
+### **Boreal Guard Soldier**
+*Medium humanoid, lawful neutral*
+*   **Armor Class**: 17 (Vril Plate Armor)
+*   **Hit Points**: 75 (10d8 + 30)
+*   **Traits**:
+    *   **Magnetic Pursuit**: Has advantage on attacks against creatures wearing metal armor.
+*   **Actions**:
+    *   **Induction Saber**: +7 to hit, 1d8+4 slashing damage + 1d6 lightning damage.
+    *   **Repelling Shield**: Reaction. When hit in melee, deals 1d10 force damage and pushes the enemy 10 feet away.
+
+---
+
+## Region 21: Atlantis
+*Bio-constructs and marine predators.*
+
+### **Atlantean Water Titan**
+*Huge elemental, neutral*
+*   **Armor Class**: 15 (Natural Armor)
+*   **Hit Points**: 160 (14d12 + 70)
+*   **Speed**: 20 ft., swim 80 ft.
+*   **Actions**:
+    *   **Vortex**: DC 16 STR save or sucked in and restrained.
+    *   **Pressure Slam**: +10 to hit, 3d12+6 bludgeoning damage.
+
+### **Mechanical Siren**
+*Medium construct, neutral evil*
+*   **Armor Class**: 14
+*   **Hit Points**: 45
+*   **Traits**:
+    *   **Sonar Song**: Creatures within 60 feet must succeed on a DC 14 WIS save or be confused.
+*   **Actions**:
+    *   **Bio-electric Harpoon**: +5 to hit, 1d10 piercing + 2d6 lightning damage.
+
+---
+
+## Region 22: Lands of Horus
+*War-birds and solar defenders.*
+
+### **Horus Winged Guard**
+*Medium humanoid, lawful good*
+*   **Armor Class**: 16 (Golden Chain Mail)
+*   **Hit Points**: 60 (8d8 + 24)
+*   **Speed**: 30 ft., fly 60 ft.
+*   **Actions**:
+    *   **Multiattack**: Two spear attacks or one beak attack.
+    *   **Sun Spear**: +6 to hit, 1d8+3 piercing + 1d8 radiant damage.
+
+### **Falcon Golem**
+*Large construct, lawful neutral*
+*   **Armor Class**: 18
+*   **Hit Points**: 110
+*   **Traits**:
+    *   **Truesight**: Sees the invisible up to 120 feet.
+*   **Actions**:
+    *   **Bronze Talons**: +8 to hit, 2d10+5 slashing damage.
+
+---
+
+## Region 23: Lands of Mercury
+*Scouts and speed specialists.*
+
+### **Argentum Fast Scout**
+*Medium humanoid, chaotic neutral*
+*   **Armor Class**: 15
+*   **Hit Points**: 40
+*   **Speed**: 60 ft.
+*   **Traits**:
+    *   **Temporal Acceleration**: Can take an extra bonus action each turn (Dash, Disengage, or Hide).
+*   **Actions**:
+    *   **Vibration Stiletto**: +7 to hit, 1d4+4 piercing damage. If it hits the same target twice, it deals an extra 2d6.
+
+---
+
+## Region 24: Lands of the Clones
+*Simulacra and genetic aberrations.*
+
+### **Defective Clone**
+*Medium humanoid, chaotic neutral*
+*   **Armor Class**: 12
+*   **Hit Points**: 30
+*   **Traits**:
+    *   **Cellular Instability**: When reduced to 0 HP, explodes in an acid cloud (2d6 damage, 10ft radius).
+*   **Actions**:
+    *   **Corrosive Touch**: +4 to hit, 2d6 acid damage.
+
+### **Elite Simulacrum**
+*Medium humanoid, lawful evil*
+*   **Armor Class**: 16
+*   **Hit Points**: 80
+*   **Traits**:
+    *   **Muscle Memory**: Can copy a class action used by a player in the previous turn (1/day).
+*   **Actions**:
+    *   **Multi-Blade**: Three rapid attacks, +7 to hit, 1d6+4 damage.
+
+---
+
+## Region 25: Realms of Neptune and Uranus
+*Extreme cold horrors.*
+
+### **Celestial Kraken (Gaseous)**
+*Huge aberration, neutral evil*
+*   **Armor Class**: 16
+*   **Hit Points**: 200
+*   **Speed**: Fly 60 ft. (levitation)
+*   **Actions**:
+    *   **Ice Tentacle**: +10 to hit, 2d10+6 cold damage. Restrains the target.
+    *   **Frost Breath**: 50-foot cone, 8d6 cold damage (DC 17 CON save for half).
+
+---
+
+## Region 26: Moai Archipelago
+*Stone guardians and ancient mechanisms.*
+
+### **Living Moai (Sentinel)**
+*Huge construct, lawful neutral*
+*   **Armor Class**: 20 (Ancient Basalt)
+*   **Hit Points**: 180 (15d12 + 80)
+*   **Speed**: 20 ft.
+*   **Traits**:
+    *   **Adamantine Immobility**: If it doesn't move, it is indistinguishable from a normal statue.
+*   **Actions**:
+    *   **Eye Beam**: Range 120 ft., +10 to hit, 4d10 radiant damage.
+    *   **Crush**: +10 to hit, 4d12+7 bludgeoning damage.
+
+---
+
+## Region 27: Nibiru
+*Gravitational entities and reset shadows.*
+
+### **Gravitational Guardian of the Monad**
+*Large aberration, unaligned*
+*   **Armor Class**: 18
+*   **Hit Points**: 150
+*   **Traits**:
+    *   **Micro-Gravity Aura**: Arrows and projectiles have disadvantage against the guardian.
+*   **Actions**:
+    *   **Singularity**: Creates a point of attraction. All creatures within 30 feet must succeed on a DC 16 STR save or be pulled to the center and take 4d8 crushing damage.
+    *   **Dark Strike**: +9 to hit, 3d10 necrotic damage.

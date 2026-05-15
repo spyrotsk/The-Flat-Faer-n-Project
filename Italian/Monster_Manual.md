@@ -465,3 +465,148 @@
 *   **Azioni**:
     *   *Mazza Pesante*: +8 al tiro per colpire, 3d10+5 danni contundenti.
     *   *Pestone*: TS FOR CD 15 o cade prono.
+
+---
+
+## Regione 20: La Repubblica Ancestrale
+*Guerrieri d'élite e tecnologia a vapore.*
+
+### **Soldato della Guardia Boreale**
+*Umanoide medio, legale neutrale*
+*   **Classe Armatura**: 17 (Corazza a Piastre Vril)
+*   **Punti Ferita**: 75 (10d8 + 30)
+*   **Tratti**:
+    *   **Inseguimento Magnetico**: Ha vantaggio agli attacchi contro creature che indossano armature metalliche.
+*   **Azioni**:
+    *   **Sciabola a Induzione**: +7 al tiro per colpire, 1d8+4 danni taglienti + 1d6 danni da fulmine.
+    *   **Scudo respingente**: Reazione. Quando colpito in mischia, infligge 1d10 danni da forza e spinge il nemico di 3 metri.
+
+---
+
+## Regione 21: Atlantide
+*Bio-costrutti e predatori marini.*
+
+### **Titano Idrico di Atlantide**
+*Elementale enorme, neutrale*
+*   **Classe Armatura**: 15 (Armatura Naturale)
+*   **Punti Ferita**: 160 (14d12 + 70)
+*   **Velocità**: 6 m, nuoto 24 m
+*   **Azioni**:
+    *   **Vortice**: CD 16 FOR o viene risucchiato e trattenuto.
+    *   **Schianto di Pressione**: +10 al tiro per colpire, 3d12+6 danni contundenti.
+
+### **Sirena Meccanica**
+*Costrutto medio, neutrale malvagio*
+*   **Classe Armatura**: 14
+*   **Punti Ferita**: 45
+*   **Tratti**:
+    *   **Canto Sonar**: Le creature entro 18 metri devono superare un TS SAG CD 14 o essere confuse.
+*   **Azioni**:
+    *   **Arpione Bio-elettrico**: +5 al tiro per colpire, 1d10 danni perforanti + 2d6 fulmine.
+
+---
+
+## Regione 22: Terre di Horus
+*Aviani da guerra e difensori solari.*
+
+### **Guardia Alata di Horus**
+*Umanoide medio, legale buono*
+*   **Classe Armatura**: 16 (Giaco di Maglia Dorato)
+*   **Punti Ferita**: 60 (8d8 + 24)
+*   **Velocità**: 9 m, volo 18 m
+*   **Azioni**:
+    *   **Multiattacco**: Due attacchi di lancia o uno di becco.
+    *   **Lancia del Sole**: +6 al tiro per colpire, 1d8+3 danni perforanti + 1d8 radianti.
+
+### **Golem del Falcone**
+*Costrutto grande, legale neutrale*
+*   **Classe Armatura**: 18
+*   **Punti Ferita**: 110
+*   **Tratti**:
+    *   **Sguardo Veritiero**: Vede l'invisibile fino a 36 metri.
+*   **Azioni**:
+    *   **Artigliate di Bronzo**: +8 al tiro per colpire, 2d10+5 danni taglienti.
+
+---
+
+## Regione 23: Terre di Mercurio
+*Scout e specialisti della velocità.*
+
+### **Scout Rapido di Argentum**
+*Umanoide medio, caotico neutrale*
+*   **Classe Armatura**: 15
+*   **Punti Ferita**: 40
+*   **Velocità**: 18 m
+*   **Tratti**:
+    *   **Accelerazione Temporale**: Può compiere un'azione bonus extra ogni turno (Scatto, Disimpegno o Nascondersi).
+*   **Azioni**:
+    *   **Stiletto a Vibrazione**: +7 al tiro per colpire, 1d4+4 danni perforanti. Se colpisce due volte lo stesso bersaglio, infligge 2d6 extra.
+
+---
+
+## Regione 24: Terre dei Cloni
+*Simulacri e aberrazioni genetiche.*
+
+### **Clone Difettoso**
+*Umanoide medio, caotico neutrale*
+*   **Classe Armatura**: 12
+*   **Punti Ferita**: 30
+*   **Tratti**:
+    *   **Instabilità Cellulare**: Quando scende a 0 HP, esplode in una nube acida (2d6 danni, raggio 3m).
+*   **Azioni**:
+    *   **Tocco Corrosivo**: +4 al tiro per colpire, 2d6 danni da acido.
+
+### **Simulacro d'Élite**
+*Umanoide medio, legale malvagio*
+*   **Classe Armatura**: 16
+*   **Punti Ferita**: 80
+*   **Tratti**:
+    *   **Memoria Muscolare**: Può copiare un'azione di classe usata da un giocatore nel turno precedente (1/giorno).
+*   **Azioni**:
+    *   **Lama Multipla**: Tre attacchi rapidi, +7 al tiro per colpire, 1d6+4 danni.
+
+---
+
+## Regione 25: Reami di Nettuno e Urano
+*Orrori del freddo estremo.*
+
+### **Kraken Celestiale (Gassoso)**
+*Aberrazione enorme, neutrale malvagio*
+*   **Classe Armatura**: 16
+*   **Punti Ferita**: 200
+*   **Velocità**: Volo 18 m (levitazione)
+*   **Azioni**:
+    *   **Tentacolo di Ghiaccio**: +10 al tiro per colpire, 2d10+6 danni da freddo. Trattiene il bersaglio.
+    *   **Soffio Congelante**: Cono di 15 metri, 8d6 danni da freddo (TS COS CD 17 dimezza).
+
+---
+
+## Regione 26: Arcipelago Moai
+*Guardiani di pietra e meccanismi antichi.*
+
+### **Moai Vivente (Sentinella)**
+*Costrutto enorme, legale neutrale*
+*   **Classe Armatura**: 20 (Basalto Antico)
+*   **Punti Ferita**: 180 (15d12 + 80)
+*   **Velocità**: 6 m
+*   **Tratti**:
+    *   **Immobilità Adamantina**: Se non si muove, è indistinguibile da una statua normale.
+*   **Azioni**:
+    *   **Raggio dello Sguardo**: Gittata 36 m, +10 al tiro per colpire, 4d10 danni radianti.
+    *   **Schiacciamento**: +10 al tiro per colpire, 4d12+7 danni contundenti.
+
+---
+
+## Regione 27: Nibiru
+*Entità gravitazionali e ombre del reset.*
+
+### **Guardiano Gravitazionale della Monade**
+*Aberrazione grande, senza allineamento*
+*   **Classe Armatura**: 18
+*   **Punti Ferita**: 150
+*   **Tratti**:
+    *   **Aura di Micro-Gravità**: Le frecce e i proiettili hanno svantaggio contro il guardiano.
+*   **Azioni**:
+    *   **Singolarità**: Crea un punto di attrazione. Tutte le creature entro 9 metri devono superare un TS FOR CD 16 o essere trascinate al centro e subire 4d8 danni da schiacciamento.
+    *   **Colpo Oscuro**: +9 al tiro per colpire, 3d10 danni necrotici.
+

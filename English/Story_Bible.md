@@ -1,130 +1,130 @@
 # Story Bible: The Flight of the Eagle
-**Campaign Setting: AD 1830 - Terra Infinita**
+**Setting: 1830 AD - Infinite Earth**
 
 ## Introduction: The Great Expedition
-The year is 1830. The Napoleonic Wars ended not with a whimper, but with a revelation. Admiral Richard Byrd’s grandfather, a secret cartographer for the Crown, discovered that the Earth does not end at the poles. The ice is merely a barrier—a "Summer Gate"—to vast, habitable continents beyond.
+The year is 1830. The Napoleonic Wars did not end with a whimper, but with a revelation. Admiral Richard Byrd's grandfather, a secret cartographer for the Crown, discovered that the Earth does not end at the poles. The ice is merely a barrier, a "Summer Gate" to vast habitable continents beyond the horizon.
 
-The players are members of **"The Flight of the Eagle"**, a covert international expedition aboard the experimental airship _The Aetherius_. Their mission: To chart the Unknown World (Ignotum Mundo) and secure its resources before rival factions do.
+The players are members of **"The Flight of the Eagle"**, a secret international expedition aboard the experimental airship _Aetherius_. Their mission: map the Unknown World (Ignotum Mundo) and secure its resources before rival factions.
 
 ---
 
 ## Chapter 1: The Known World (Notum Mundo)
-**Theme**: Industrial Grime, Political intrigue, Secret Societies.
+**Theme**: Industrial grayness, political intrigue, secret societies.
 
-The campaign begins in **London/Paris**, but not as we know them. Steam-tech is advanced, fueled by "Vril" ore smuggled from the North.
+The campaign starts in **London/Paris**, but not as we know them. Steam technology is advanced, powered by the "Vril" mineral smuggled from the North.
 *   **Key Locations**: 
     *   **The Royal Society of Aether**: Mission control.
-    *   **The Smog-Pits**: Where the poor work Vril refineries.
-*   **The Conflict**: The "Cult of the Rounded Earth" wants to sabotage the mission to keep the masses ignorant of the Infinite Earth truth.
-*   **Plot Hook**: The players must secure the *Aetherius* launch codes from a defector while being hunted by clockwork assassins.
+    *   **The Smog Pits**: Where the poor refine Vril.
+*   **The Conflict**: The "Round Earth Cult" wants to sabotage the mission to keep the masses ignorant of the Infinite Earth's truth.
+*   **Plot Hook**: The players must recover the *Aetherius* launch codes from a defector while being hunted by clockwork assassins.
 
-## Chapter 2: The Ice Wall & The Summer Gate
+## Chapter 2: The Ice Wall and the Summer Gate
 **Theme**: Survival, Man vs. Nature, The Threshold.
 
 The *Aetherius* crosses the Antarctic Circle.
 *   **Key Locations**:
-    *   **The Ice Ramparts**: A wall of ice 2 miles high.
+    *   **The Ice Bastions**: A 2-mile high wall of ice.
     *   **Station Zero**: An abandoned outpost from a lost 16th-century expedition.
-*   **The Conflict**: Sabotage on the ship damages the heating core. The crew must scavenge parts from Station Zero, which is overrun by "Wendigos" (failed experiments of the previous explorers).
-*   **Discovery**: The Ice Wall isn't natural; it's a bio-engineered fence.
+*   **The Conflict**: Sabotage on the ship damages the heating core. The crew must recover spare parts from Station Zero, which is infested with "Wendigos" (failed experiments of previous explorers).
+*   **Discovery**: The Ice Wall is not natural; it is a bio-engineered fence.
 
-## Chapter 3: Asgardia & The Hyperborean Rings
-**Theme**: High Fantasy, Norse Mythology, Giant Scale.
+## Chapter 3: Asgardia and the Hyperborean Rings
+**Theme**: High Fantasy, Norse Mythology, Gigantic Scale.
 
-Beyond the ice lies the continent of **Asgardia**. The laws of physics feel looser here.
+Beyond the ice lies the continent of **Asgardia**. The laws of physics are looser here.
 *   **Key Locations**:
-    *   **Agartha**: The Hollow Earth entrance, glowing with inner light.
+    *   **Agartha**: The entrance to the Hollow Earth, glowing with internal light.
     *   **The City of Golden Spires**: Inhabited by the "Ancestors" (Tall Whites/Nordics).
-*   **The Conflict**: The Ancestors view humans as lost children—or diseased livestock. Players must negotiate passage or prove they aren't "polluted" by the industrial Notum Mundo.
+*   **The Conflict**: The Ancestors see humans as lost children or diseased livestock. The players must negotiate passage or prove they are not "polluted" by the industrial Known World.
 *   **Lore**: The map shows this area is rich in giant flora and fauna.
 *   **Sub-Regions**:
-    *   **The Valhalla Peaks**: Mountain range where Storm Dragons roost.
-    *   **The Yggdrasil Grove**: A forest of trees so large they pierce the clouds.
-    *   **Odin's Eye**: A giant whirlpool connecting to the inner oceans.
+    *   **The Valhalla Peaks**: Mountain range where Storm Dragons nest.
+    *   **The Yggdrasil Woods**: A forest of trees so large they pierce the clouds.
+    *   **The Eye of Odin**: A gigantic whirlpool connecting to the inner oceans.
 
-## Chapter 4: The Lands of Lemuria & The Reptilian Domain
-**Theme**: Pulp Adventure, Prehistoric, Savage.
+## Chapter 4: The Lands of Lemuria and the Reptilian Domain
+**Theme**: Pulp Adventure, Prehistory, Wild.
 
-Southeast on the map, the terrain turns tropical and swamp-like.
+South-east on the map, the terrain becomes tropical and marshy.
 *   **Key Locations**:
-    *   **The Sunken Ziggurats**: Massive stone temples half-buried in jungle.
-    *   **The Hatchery**: A breeding ground for dinosaur-riding warriors.
-*   **The Conflict**: The "Saurian" empire captures the *Aetherius*. Players are thrown into a gladiatorial arena against T-Rexes.
-*   **Twist**: The Saurians claim *they* are the original Earthlings, and humans are the invasive species involved in the "Great Flood" weapon.
+    *   **The Sunken Ziggurats**: Massive stone temples buried in the jungle.
+    *   **La Nuraca**: A breeding ground for dinosaur-riding warriors.
+*   **The Conflict**: The "Saurian" Empire captures the *Aetherius*. The players are thrown into a gladiatorial arena against T-Rexes.
+*   **Twist**: The Saurians claim to be the *original* inhabitants of Earth and that humans are an invasive species involved in the "Great Flood" weapon.
 *   **Sub-Regions**:
     *   **The Serpent Delta**: A toxic swamp filled with hallucinogenic spores.
-    *   **The Obsidian Plains**: Volcanic glass fields where the "Fire-Walkers" live.
-    *   **Mu-Gong Temples**: Ancient monkey-king shrines hidden in the bamboo forests.
+    *   **The Obsidian Plains**: Fields of volcanic glass where the "Fire Walkers" live.
+    *   **Mu-Gong Temples**: Ancient monkey king shrines hidden in bamboo forests.
 
-## Chapter 5: The Outer Darkness & The Custodians
+## Chapter 5: The Outer Darkness and the Keepers
 **Theme**: Cosmic Horror, Lovecraftian, The Truth.
 
-Reaching the edge of the second ring (as seen on the map), the sun of the Known World fades to a distant star.
+Reaching the edge of the second ring, the Known World's sun fades into a distant star.
 *   **Key Locations**:
-    *   **The Omega Barrier**: A dome that keeps the atmosphere in.
-    *   **The Black Pyramid**: Control center of the simulation/terradome.
-*   **The Conflict**: The players meet "The Custodians" (Grey Aliens/Watchers). They reveal the Earth is a preserve/farm.
-*   **Climax**: The players must decide—destroy the barrier to free humanity (risking the atmosphere venting) or usurp the Custodians and become the new jailers of Earth.
+    *   **The Omega Barrier**: A dome that holds in the atmosphere.
+    *   **The Black Pyramid**: Control center for the simulation/terradome.
+*   **The Conflict**: The players meet the "Keepers" (Grey Aliens/Observers). They reveal that Earth is a preserve/farm.
+*   **Climax**: The players must decide: destroy the barrier to free humanity (risking atmospheric bleed) or usurp the Keepers and become Earth's new jailers.
 
-## Chapter 6: The Egyptian Cycle (Lands of Ra, Osiris, Isis, Toth)
-**Theme**: Ancient Magic, The Gods Walk Among Us, Golden Age.
+## Chapter 6: The Egyptian Cycle (Lands of Ra, Osiris, Isis, Thoth)
+**Theme**: Ancient Magic, Gods Walk Among Us, Golden Age.
 
-Beyond Lemuria lie the "Divine Continents", named after Earth's ancient deities.
+Beyond Lemuria lie the "Divine Continents," named after ancient Earth deities.
 *   **Key Locations**:
     *   **Helios Prime (Land of Ra)**: A continent of perpetual sunlight and golden deserts.
-    *   **The Necropolis of Anubis**: A dark, moonlit land where the "undeath" virus originated.
-    *   **The Library of Toth**: An infinite archive containing the history of all previous timeline resets.
-*   **The Conflict**: The players must find the "Book of Origins" in Toth to understand how to bypass the Omega Barrier. They are chased by the Anubian Guard.
+    *   **Anubis Necropolis**: A dark, ghostly land where the "non-death" virus was born.
+    *   **The Library of Thoth**: An infinite archive containing the history of all previous timeline resets.
+*   **The Conflict**: Players must find the "Book of Origins" at Thoth to understand how to bypass the Omega Barrier. They are pursued by the Anubian Guard.
 *   **Sub-Regions**:
-    *   **The River Styx**: A black river that flows backwards.
-    *   **The Pyramid of Giza II**: An exact, pristine replica of the Earth one, but functioning as a power plant.
-    *   **The Scorpion Waste**: Desert inhabited by giant arachnids.
+    *   **The River Styx**: A black river that flows backward.
+    *   **Giza Pyramid II**: An exact, pristine replica of the Earth one, but functioning as a power plant.
+    *   **The Scorpion Desert**: Desert inhabited by giant arachnids.
 
-## Chapter 7: The Gemini Lands & The Mirror Worlds
+## Chapter 7: The Gemini Lands and Mirror Worlds
 **Theme**: Duality, Doppelgangers, Surrealism.
 
 Two identical continents facing each other across a narrow sea.
 *   **Key Locations**:
-    *   **Castor & Pollux Cities**: Cities that mirror each other perfectly but exist in different time phases.
-*   **The Conflict**: The players meet their own "Simulacrum" versions. To pass, they must defeat or merge with their alternative selves.
+    *   **Cities of Castor and Pollux**: Cities that mirror each other perfectly but exist in different time phases.
+*   **The Conflict**: Players encounter their "Simulacrum" versions. To pass, they must defeat or merge with their alternate selves.
 
 ## Chapter 8: The Celestial Continents (Mars, Venus, Jupiter)
 **Theme**: Alien Civilizations, High Tech, War of the Worlds.
 
-The map shows lands named after planets. In this setting, "planets" are not balls in space, but other continents across the plane.
+The map shows lands with planet names. In this setting, "planets" are not spheres in space, but other continents across the plane.
 *   **Key Locations**:
-    *   **The Red Plains of Mars**: Home to a warlike race of red-skinned humanoids (The Martians).
-    *   **The Cloud-Forests of Venus**: A psychedelic jungle inhabited by telepathic plants and "The Greys" (different from Watchers).
-*   **The Conflict**: A war is brewing between Mars and the Custodians. The players can tip the balance, potentially gaining an army to storm the Ice Wall.
+    *   **The Red Plains of Mars**: Home to a warrior race of red-skinned humanoids (The Martians).
+    *   **The Cloud-Forests of Venus**: A psychedelic jungle inhabited by telepathic plants and "Grey Aliens" (different from the Observers).
+*   **The Conflict**: A war is brewing between Mars and the Keepers. Players can shift the balance, potentially gaining an army to storm the Ice Wall.
 
-## Chapter 9: The Outer Wastes & The Halls of Amenti
+## Chapter 9: The Outer Wastes and the Halls of Amenti
 **Theme**: Metaphysical, The Source, The End.
 
-The furthest ring before the Void.
+The farthest ring before the Void.
 *   **Key Locations**:
     *   **Amenti**: The Halls of Judgment.
-    *   **The Summer Gate**: The true exit from the Terra Infinita simulation.
-*   **The Final Choice**: Leave the simulation to join the "True Reality" or stay and become Gods of the Infinite Earth.
+    *   **The Summer Gate**: The real exit from the Infinite Earth simulation.
+*   **Final Choice**: Leave the simulation to join the "True Reality" or stay and become the Gods of the Infinite Earth.
 
-## Chapter 10: The Golden Empire (Amazonia & El Dorado)
-**Theme**: Matriarchy, Jungle Warfare, Unearthed Riches.
+## Chapter 10: The Golden Empire (Amazonia and El Dorado)
+**Theme**: Matriarchy, Jungle Warfare, Unheard-of Riches.
 
 South of the known Americas lies the continuation of the continent.
 *   **Key Locations**:
-    *   **Paititi (The Golden City)**: Built entirely of gold, protecting the Fountain of Youth.
+    *   **Paititi (The Golden City)**: Built entirely of gold, it protects the Fountain of Youth.
     *   **The Emerald Canopy**: Home of the Amazon Queens.
-*   **The Conflict**: Conquistador ghosts and modern treasure hunters besiege the city. The players must earn the Amazons' trust to access the healing waters.
+*   **The Conflict**: Ghosts of Conquistadors and modern treasure hunters besiege the city. Players must earn the Amazons' trust to access the healing waters.
 
-## Chapter 11: The Heavy Realms (Jupiter & Saturn)
-**Theme**: High Gravity, Crystal Technology, Time Dilation.
+## Chapter 11: The Heavy Realms (Jupiter and Saturn)
+**Theme**: High Gravity, Crystalline Technology, Time Dilation.
 
-Far beyond Mars, the landmasses become immense and the gravity crushing.
+Far beyond Mars, the landmasses become immense and gravity crushing.
 *   **Key Locations**:
-    *   **The Rings of Saturn**: Actual physical rings of floating islands orbiting a central magnetic vortex.
-    *   **The Jovian Storm-Plains**: A land of perpetual hurricane where the "Thunder Kings" rule.
-*   **The Conflict**: Time moves slower here. A day spent exploring Saturn costs a year in the Known World. Players must weigh the value of the "Graviton Tech" found here against the time lost.
+    *   **The Rings of Saturn**: Physical rings of floating islands orbiting a central magnetic vortex.
+    *   **The Jovian Storm Plains**: A land of perpetual hurricanes where the "Thunder Kings" rule.
+*   **The Conflict**: Time flows slower here. A day spent exploring Saturn costs a year in the Known World. Players must weigh the value of "Graviton Tech" found here against lost time.
 
-## Chapter 12: Thule & The Black Sun
+## Chapter 12: Thule and the Black Sun
 **Theme**: Occult Nazism, Dark Magic, The Counter-Expedition.
 
 Hidden within the inner rings, separate from Asgardia.
@@ -133,15 +133,15 @@ Hidden within the inner rings, separate from Asgardia.
     *   **The Vril-Ya Generator**: A massive machine tapping into the Earth's core.
 *   **The Conflict**: The ultimate antagonists. They plan to collapse the Ice Wall to flood the Known World and rule the survivors.
 
-## Chapter 13: The Ancestral Seas (The Oceans Between)
-**Theme**: Nautical Horror, Deep Sea Mysteries, Pirates.
+## Chapter 13: The Ancestral Seas (The Intermediate Oceans)
+**Theme**: Nautical Horror, Deep Mysteries, Pirates.
 
-The space between continents is not empty water.
+The space between continents is not just empty water.
 *   **Key Locations**:
     *   **The Sargasso of Lost Ships**: Where vessels from all eras are trapped in living seaweed.
-    *   **The Abyssal Trench**: Home to the Kraken and the "Deep Ones" (fish-men).
-    *   **Island of the Sirens**: A moving island that lures navigators to their doom.
-*   **The Conflict**: The *Aetherius* may need to land for repairs, or face "Sky-Whales" that breach the surface to hunt in the lower atmosphere.
+    *   **The Abyssal Trench**: Home of the Kraken and the "Deep Ones" (fish-men).
+    *   **The Island of Sirens**: A mobile island that lures navigators to ruin.
+*   **The Conflict**: The *Aetherius* might need to land for repairs or face the "Sky Whales" that breach the surface to hunt in the lower atmosphere.
 
 ## Chapter 14: The Center of the World (Rupes Nigra)
 **Theme**: Magnetic Mystery, The Axis Mundi, Compass Failure.
@@ -149,87 +149,165 @@ The space between continents is not empty water.
 At the very center of the map/world stands a massive rock of black magnetite.
 *   **Key Locations**:
     *   **Rupes Nigra (The Black Rock)**: An inductive mountain 33 miles wide.
-    *   **The Maelstrom**: A giant drain sucking ocean water into the Hollow Earth.
-    *   **The Polar Paradise**: A small, temperate zone heated by the friction of the pole.
-*   **The Conflict**: Navigation is impossible here. Compasses spin wildly. The players must use celestial navigation or ancient star-charts to avoid being pulled into the Maelstrom.
+    *   **The Maelstrom**: A gigantic drain that sucks ocean water into the Hollow Earth.
+    *   **The Polar Paradise**: A small temperate zone heated by the pole's friction.
+*   **The Conflict**: Navigation is impossible here. Compasses go wild. Players must use celestial navigation or ancient star maps to avoid being sucked into the Maelstrom.
 
 ## Chapter 15: The Lost Islands (Avalon, Hy-Brasil, Thyle)
-**Theme**: Arthurian Legend, Vanishing Lands, Time Loops.
+**Theme**: Arthurian Legend, Vanished Lands, Time Loops.
 
-Islands that appear only on specific dates or star alignments.
+Islands that appear only on specific dates or stellar alignments.
 *   **Key Locations**:
-    *   **Avalon**: The resting place of King Arthur, guarded by Green Knights.
-    *   **Hy-Brasil**: An island cloaked in mist that appears once every 7 years.
-    *   **Thyle**: The furthest point of trade for the ancients, now a frozen ruin.
-*   **The Conflict**: These islands are "Lifeboats" from previous calamities. The inhabitants are immortal but trapped in time loops. The players can break the loop but risk aging them to dust.
+    *   **Avalon**: King Arthur's resting place, guarded by the Green Knights.
+    *   **Hy-Brasil**: A mist-shrouded island that appears once every 7 years.
+    *   **Thyle**: The farthest point for ancient trade, now a frozen ruin.
+*   **The Conflict**: These islands are "lifeboats" of previous calamities. Inhabitants are immortal but trapped in time loops. Players can break the loop but risk reducing them to dust from sudden aging.
 
-## Chapter 16: The Hidden Kingdoms (Hibernia, Svartalfheim, & The Underdark)
-**Theme**: Fairy Tales, Industrial Revolution vs. Nature, The Little People.
+## Chapter 16: The Hidden Kingdoms (Hibernia, Svartalfheim and the Underground)
+**Theme**: Fairytales, Industrial Revolution vs. Nature, The Little People.
 
-Scattered across the map are entrances to the "Under-Kingdoms" and the mystical isles of Hibernia.
+Scattered across the map are entrances to "Underground Realms" and the mystical islands of Hibernia.
 *   **Key Locations**:
-    *   **Hibernia Minor**: A lush green island hidden by rainbows (refraction shields). Home to Leprechauns and Brownies.
+    *   **Hibernia Minor**: A lush green island hidden by refraction shields (rainbows). Home to Leprechauns and Brownies.
     *   **The Iron Forge (Svartalfheim)**: Deep underground caverns where Dwarves and Gnomes build impossible machines.
-    *   **The Rotting Bog**: A corrupted wetland where Goblins and Orcs amass armies.
-*   **The Conflict**: The "Small Wars". The industrialized Dwarves are encroaching on the magical lands of the Leprechauns. The Orcs serve as mercenaries for both sides.
-*   **Unique Mechanics**: Gold claimed here turns to leaves if taken out of the zone without a contract.
+    *   **The Putrid Swamp**: A corrupted wetland where Goblins and Orcs amass armies.
+*   **The Conflict**: The "Little Wars." Industrialized Dwarves are invading the Leprechauns' magical lands. Orcs serve as mercenaries for both sides.
+*   **Unique Mechanics**: Gold obtained here turns into leaves if taken out of the zone without a contract.
 
 ## Chapter 17: Peoples of the Outer Lands
-**Theme**: Cultural Anthropology of the Infinite Earth.
+**Theme**: Cultural anthropology of the Infinite Earth.
 
 Descriptions of specific populations native to the Rings.
 *   **The Noshyvollo**:
     *   **Location**: The frozen steppes connecting the Ice Wall to Asgardia.
-    *   **Culture**: Nomadic mammoth-herders. They are giants (8-9ft tall) who worship the Aurora Borealis. They are peaceful but fiercely territorial. They possess "Singing Stones" that can calm storms.
+    *   **Culture**: Nomadic mammoth herders. They are giants (8-9 feet tall) who worship the Aurora Borealis. Peaceful but fiercely territorial. They possess "Singing Stones" that can calm storms.
 *   **People of Quiriva**:
     *   **Location**: The coastal regions of the "Western" outer ring.
-    *   **Culture**: A maritime society living in floating cities made of balsa and coral. They are master navigators of the "Wind-Rivers" that flow between continents.
+    *   **Culture**: A maritime society living in floating cities made of balsa and coral. They are master navigators of the "Wind Rivers" that flow between continents.
 *   **People of Cibola**:
-    *   **Location**: The Seven Cities of Gold, hidden within the Amazonian ring.
-    *   **Culture**: A wealthy, decadent society that uses gold as a common building material but values fresh water as currency. They are guarded by the "Golden Golems" (see Monster Manual).
+    *   **Location**: The Seven Cities of Gold, hidden within the Amazon ring.
+    *   **Culture**: A wealthy and decadent society that uses gold as a common building material but considers fresh water as currency. They are watched over by "Golden Golems."
 *   **The Pte-Roi (Winged Men)**:
     *   **Location**: The high peaks of the Thulean Mountains.
-    *   **Culture**: Humanoids with functioning wings. They act as messengers between the separated continents of the outer ring.
+    *   **Culture**: Humanoids with functional wings. They serve as messengers between the separate continents of the outer ring.
 
-## Chapter 18: The Spiritual Enclaves (Shambhala & Shangri-La)
+## Chapter 18: Spiritual Enclaves (Shambhala and Shangri-La)
 **Theme**: Enlightenment, Monk-Warriors, Psionics.
 
 Hidden in the highest peaks of the Known World and the Inner Rings.
 *   **Key Locations**:
-    *   **Shambhala (The Crystal City)**: A city of pure thought, accessible only by astral projection or finding the physical "Rainbow Gate".
-    *   **Shangri-La**: A valley where time stands still. Inhabitants are tens of thousands of years old.
-*   **The Conflict**: The "Mental War". Dark entities from the Outer Darkness (Chapter 5) are trying to corrupt the psychic barrier maintained by the enclave monks.
+    *   **Shambhala (The Crystal City)**: A city of pure thought, accessible only through astral projection or finding the physical "Rainbow Gate."
+    *   **Shangri-La**: A valley where time stops. Residents are tens of thousands of years old.
+*   **The Conflict**: The "Mind War." Dark entities from the Outer Darkness (Chapter 5) seek to corrupt the psychic barrier maintained by the monks.
 
-## Chapter 19: The Merchant Kingdoms (Ophir & Tarshish)
+## Chapter 19: Merchant Kingdoms (Ophir and Tarshish)
 **Theme**: Trade, Mercenaries, Exotic Goods.
 
 Located on the trade routes between the Inner and Outer rings.
 *   **Key Locations**:
-    *   **Ophir (The Gold Port)**: The banking capital of the Infinite Earth. Even the Dwarves bank here.
-    *   **Tarshish (The Fleet-Base)**: Home to the massive "Leviathan-Class" trade ships.
-*   **The Conflict**: Economic espionage. The players may be hired to smuggle "Forbidden Technology" past the blockade of the Royal Society.
+    *   **Ophir (The Golden Port)**: The banking capital of the Infinite Earth. Even Dwarves deposit here.
+    *   **Tarshish (The Fleet Base)**: Home of massive "Leviathan Class" merchant ships.
+*   **The Conflict**: Economic espionage. Players might be hired to smuggle "Forbidden Tech" past the Royal Society blockade.
 
-## Chapter 20: The Border Wastes (The Outermost Ring)
+## Chapter 20: The Borderlands (The Outermost Ring)
 **Theme**: Environmental Extremes, The Edge of Existence.
 
-The final ring before the "Walls of Asgard" and the Great Void.
+The last ring before the "Walls of Asgard" and the Great Void.
 *   **Key Locations**:
-    *   **The Titanic Forest (North)**: Trees the size of mountains, inhabited by primeval giants.
-    *   **The Volcanic Wastes (East)**: Eternal rivers of lava and fire-elementals.
-    *   **The Sunken Wastes (South)**: A region where the ocean has partially drained away, leaving sea-beast skeletons and ancient ruins.
-    *   **The Scorched & Irradiated Wastes (West)**: Deserts of glass and mutated horrors from ancient "Sky-Wars".
-    *   **The Frozen Wastes (NE)**: Absolute zero temperatures where even time freezes.
-*   **The Conflict**: Survival against the elements. The Royal Society believes "The Source" of all Vril is hidden in the Titanic Forest.
+    *   **The Titanic Forest (North)**: Trees the size of mountains, inhabited by primordial giants.
+    *   **The Volcanic Wastes (East)**: Eternal lava rivers and fire elementals.
+    *   **The Sunken Wastes (South)**: A region where the ocean has partially dried up, leaving skeletons of marine creatures and ancient ruins.
+    *   **The Parched and Irradiated Wastes (West)**: Glass deserts and mutated horrors from ancient "Sky Wars."
+    *   **The Frozen Wastes (NE)**: Temperatures near absolute zero where even time freezes.
+*   **The Conflict**: Survival against the elements. The Royal Society believes the "Source" of all Vril is hidden in the Titanic Forest.
 
-## Chapter 21: The Outer Continents (Eden, Terra Nova, Greater Lemuria)
+## Chapter 21: Outer Continents (Eden, Terra Nova, Greater Lemuria)
 **Theme**: Utopia vs. Dystopia, The Cradle of Life.
 
-Major landmasses located in the secondary and tertiary rings.
+Large landmasses located in the second and third rings.
 *   **Key Locations**:
-    *   **Eden**: A walled continent of perfect biology, suspected to be the origin of the human species.
-    *   **Terra Nova**: A new, raw continent still being shaped by the Custodians.
-    *   **Greater Lemuria**: The capital of the Lemurian Empire, far larger and more advanced than the colonies in Chapter 4.
-    *   **Athenia & Asclepia**: Centers of ancient philosophy and healing magic, respectively.
-*   **The Conflict**: Cultural collision. The people of Terra Nova are "blank slates" being programmed by the Greys. Players may try to "awaken" them.
+    *   **Eden**: A continent walled by perfect biology, suspected to be the human species' origin.
+    *   **Terra Nova**: A raw and new continent, still being shaped by the Keepers.
+    *   **Greater Lemuria**: The capital of the Lemurian Empire, much larger and more advanced than the Chapter 4 colonies.
+    *   **Athenia and Asclepia**: Centers for ancient philosophy and healing magic, respectively.
+*   **The Conflict**: Cultural collision. Terra Nova inhabitants are "tabula rasa" programmed by the Greys. Players might try to "awaken" them.
 
+## Chapter 22: The Ancestral Republic (Lands of the First Ancestors)
+**Theme**: Elite Steampunk, Diplomacy, Origins.
 
+Located immediately beyond the Ice Wall, this land is the official port of entry for anyone wishing to explore the outer rings.
+*   **Key Locations**:
+    *   **Boreal Port**: A metropolis built on magnetite pillars, where airships from all rings meet to trade.
+    *   **The Senate of the Ancients**: Where "Tall White" representatives rule over the passage between worlds.
+*   **The Conflict**: A cold war between the Republic and London's Royal Society for control of Vril duties.
+*   **Playability**: Players can get flight permits, hire expert guides, or be involved in industrial espionage plots.
+
+## Chapter 23: Atlantis (The Resurfaced Continent)
+**Theme**: Ancient Bio-Tech, Sunken Ruins, Mystery.
+
+Located in a zone of high seismic instability, this legendary continent is rising from the depths of the intermediate oceans.
+*   **Key Locations**:
+    *   **The City of Crystal Domes**: An underwater metropolis (partially flooded) containing nanotech coral libraries.
+    *   **Poseidon's Trident**: A massive energy platform that stabilizes the dome's plate tectonics.
+*   **The Conflict**: The original inhabitants (bio-enhanced Sirens) do not look kindly on "air-navigators" looting their ruins.
+*   **Playability**: Underwater exploration (using Vril pressure suits), recovery of bio-mechanical artifacts, and diplomacy with marine kingdoms.
+
+## Chapter 24: Lands of Horus and the Solar Conflict
+**Theme**: Desert Warfare, Vigilance, Fanaticism.
+
+Distinct from Ra's lands for their militaristic nature, Horus's lands are the "sword" of the Egyptian gods.
+*   **Key Locations**:
+    *   **Edfu Prime**: A pyramid-fortress housing the legendary Hawk Fleet.
+    *   **The Valley of the Forgotten**: A contested border with the Lands of Set, where shadows come to life.
+*   **The Conflict**: Horus is preparing a preemptive invasion of the Mars Lands to "bring order" to the outer rings.
+*   **Playability**: Chariot-based aerial combat, infiltration of temple-fortresses, and defense of outposts against shadow incursions.
+
+## Chapter 25: Lands of Mercury and the Hermes Market
+**Theme**: Speed, Trade, Chaos.
+
+The smallest and fastest ring, where time seems to flow differently due to gravitational anomalies.
+*   **Key Locations**:
+    *   **The Great Bazaar of Argentum**: A market that constantly moves following the "Light Winds."
+    *   **The Messenger Academy**: Where the world's fastest pilots train.
+*   **The Conflict**: Crime syndicates control smuggling routes, defying the Ancestral Republic's authority.
+*   **Playability**: Airship races through magnetic canyons and record-time delivery missions.
+
+## Chapter 26: Lands of the Clones (The Keepers' Laboratories)
+**Theme**: Identity, Ethics, Genetic Dystopia.
+
+A failed (or too successful) experiment by the Keepers to preserve previous cycle races.
+*   **Key Locations**:
+    *   **Alpha-Genesis**: A sterile city where thousands of clones live pre-programmed lives.
+    *   **The Scrap Tank**: A jungle of mutations where "imperfect" clones live.
+*   **The Conflict**: A resistance movement among clones has discovered they are just "genetic livestock" and seeks help from outsiders.
+*   **Playability**: Meeting doppelgängers of themselves or historical figures, deciding the fate of a synthetic species.
+
+## Chapter 27: Realms of Neptune and Uranus (The Ice Prisons)
+**Theme**: Frozen Horror, Ancient Technology, Isolation.
+
+Located at the edges of the central sun's thermal influence, these realms are worlds of eternal ice and liquid storm.
+*   **Key Locations**:
+    *   **Vault-7 (Uranus)**: A maximum-security prison housing cosmic entities captured by the Keepers.
+    *   **The Diamond Oceans (Neptune)**: Where pressure is such that carbon crystallizes in the air.
+*   **The Conflict**: Something has woken up in the vaults and is trying to manipulate the dome's climate to freeze the central world.
+*   **Playability**: Survival at extreme temperatures, air supply management, and combat against released primordial horrors.
+
+## Chapter 28: Moai Archipelago (The Sentinel Islands)
+**Theme**: Gigantic Archaeology, Signals, Communication.
+
+A chain of islands forming a defensive (or warning) ring around the Outer Lands.
+*   **Key Locations**:
+    *   **Rapa Nui II**: The central island, where the "Great Moai" gazes not inward, but toward the Walls of Asgard.
+    *   **Signal Platforms**: Ancient altars that, when activated, emit a coherent light beam toward the outer stars.
+*   **The Conflict**: Void Cultists seek to sabotage the signals to allow outer creatures to enter the dome.
+*   **Playability**: Monumental mechanical puzzle-solving, climbing giant statues, and decrypting ancient codes.
+
+## Chapter 29: Nibiru and the Gravitational Control Center
+**Theme**: Dark Fantasy, Metaphysics, The Reset.
+
+The final ring before the physical world's end. A place where light never arrives and the ground is made of dense, dark matter.
+*   **Key Locations**:
+    *   **The Monad**: An inverted black pyramidal structure serving as the dome's "anchor."
+    *   **The Wastes of Silence**: A desert where sound does not propagate, inhabited by beings of pure thought.
+*   **The Conflict**: The Keepers are preparing Nibiru for the next "Great Reset." Players must decide whether to sabotage the system or become its new guardians.
+*   **Playability**: Exploration with alternate senses, zero-gravity battles, and definitive moral choices.
