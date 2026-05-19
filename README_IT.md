@@ -21,9 +21,11 @@ I giocatori fanno parte del **"Volo dell'Aquila"**, una spedizione scientifica e
 *   **[`/Italian`](file:///c:/Users/ericpapais/source/repos/DeD_Complotti/Italian)**: Documenti principali della campagna in lingua italiana (versione originale).
     *   [**`Story_Bible.md`**](file:///c:/Users/ericpapais/source/repos/DeD_Complotti/Italian/Story_Bible.md): La guida ufficiale della campagna, con 29 capitoli colmi di lore, fazioni, regioni e spunti narrativi.
     *   [**`Monster_Manual.md`**](file:///c:/Users/ericpapais/source/repos/DeD_Complotti/Italian/Monster_Manual.md): Il bestiario con le schede statistiche in stile D&D 5e per ogni regione.
+    *   [**`Oggetti_e_Materiali.md`**](file:///c:/Users/ericpapais/source/repos/DeD_Complotti/Italian/Oggetti_e_Materiali.md): La guida di riferimento per oggetti speciali e materiali rari.
 *   **[`/English`](file:///c:/Users/ericpapais/source/repos/DeD_Complotti/English)**: Documenti della campagna tradotti in lingua inglese.
     *   [**`Story_Bible.md`**](file:///c:/Users/ericpapais/source/repos/DeD_Complotti/English/Story_Bible.md): La Story Bible in lingua inglese.
     *   [**`Monster_Manual.md`**](file:///c:/Users/ericpapais/source/repos/DeD_Complotti/English/Monster_Manual.md): Il Monster Manual in lingua inglese.
+    *   [**`Items_and_Materials.md`**](file:///c:/Users/ericpapais/source/repos/DeD_Complotti/English/Items_and_Materials.md): La guida di riferimento per oggetti e materiali in inglese.
 *   **`Map1.jpg` / `Map2.jpg`**: Mappe cartografiche ad alta risoluzione che illustrano i cerchi concentrici della Terra Infinita.
 
 ---

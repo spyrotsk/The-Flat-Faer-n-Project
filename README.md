@@ -21,9 +21,11 @@ In this campaign, players embark as members of **"The Flight of the Eagle"**, a 
 *   **[`/English`](file:///c:/Users/ericpapais/source/repos/DeD_Complotti/English)**: Primary campaign documents in English.
     *   [**`Story_Bible.md`**](file:///c:/Users/ericpapais/source/repos/DeD_Complotti/English/Story_Bible.md): The campaign setting guide, detailing 29 chapters of rich lore, regions, factions, and story hooks.
     *   [**`Monster_Manual.md`**](file:///c:/Users/ericpapais/source/repos/DeD_Complotti/English/Monster_Manual.md): Custom bestiary featuring ready-to-use D&D 5e stat blocks for every region.
+    *   [**`Items_and_Materials.md`**](file:///c:/Users/ericpapais/source/repos/DeD_Complotti/English/Items_and_Materials.md): Reference guide for special steampunk gear, metals, and magic items.
 *   **[`/Italian`](file:///c:/Users/ericpapais/source/repos/DeD_Complotti/Italian)**: Original campaign documents in Italian.
     *   [**`Story_Bible.md`**](file:///c:/Users/ericpapais/source/repos/DeD_Complotti/Italian/Story_Bible.md): La guida ufficiale della campagna in italiano.
     *   [**`Monster_Manual.md`**](file:///c:/Users/ericpapais/source/repos/DeD_Complotti/Italian/Monster_Manual.md): Il bestiario completo con schede statistiche in italiano.
+    *   [**`Oggetti_e_Materiali.md`**](file:///c:/Users/ericpapais/source/repos/DeD_Complotti/Italian/Oggetti_e_Materiali.md): La guida di riferimento per oggetti speciali e materiali rari.
 *   **`Map1.jpg` / `Map2.jpg`**: High-resolution, detailed maps illustrating the concentric rings of the Infinite Earth.
 
 ---
