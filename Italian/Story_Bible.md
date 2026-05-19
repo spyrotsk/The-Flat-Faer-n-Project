@@ -23,10 +23,22 @@ La campagna inizia a **Londra/Parigi**, ma non come le conosciamo. La tecnologia
 
 L'*Aetherius* attraversa il Circolo Antartico.
 *   **Luoghi Chiave**:
-    *   **I Bastioni di Ghiaccio**: Un muro di ghiaccio alto 2 miglia.
+    *   **I Bastioni di Ghiaccio**: Un muro di ghiaccio alto 2 miglia. Per superare la barriera, le spedizioni devono attraversare uno dei quattro leggendari cancelli di passaggio:
+        *   **The Sentinel's Gate** (Il Cancello della Sentinella): Sorvegliato da antiche difese meccaniche.
+        *   **The Serpent's Gate** (Il Cancello del Serpente): Tunnel di ghiaccio tortuosi infestati da colossali vermi dei ghiacci.
+        *   **The Leviathan's Gate** (Il Cancello del Leviatano): Un canale subglaciale sommerso sorvegliato da orrori acquatici.
+        *   **The Tiger's Gate** (Il Cancello della Tigre): Un canyon sferzato dal vento e affilato come un rasoio, infestato da spettrali predatori dai denti a sciabola.
     *   **Station Zero**: Un avamposto abbandonato di una spedizione perduta del XVI secolo.
 *   **Il Conflitto**: Un sabotaggio sulla nave danneggia il nucleo di riscaldamento. L'equipaggio deve recuperare pezzi di ricambio da Station Zero, infestata dai "Wendigo" (esperimenti falliti dei precedenti esploratori).
 *   **Scoperta**: Il Muro di Ghiaccio non è naturale; è una recinzione bio-ingegnerizzata.
+
+### La Leggenda dei Quattro Cancelli
+Secondo gli antichi registri polari recuperati dal nonno di Byrd, il Muro di Ghiaccio non è una semplice massa di ghiaccio solido, ma un colossale scudo difensivo bio-ingegnerizzato costruito dai Primi Costruttori (i Custodi) eoni fa per isolare l'umanità all'interno della cupola centrale. Tuttavia, per consentire ai propri vascelli e servitori di transitare tra la simulazione centrale e gli anelli esterni, i Custodi costruirono quattro portali monumentali: **The Sentinel's Gate**, **The Serpent's Gate**, **The Leviathan's Gate** e **The Tiger's Gate**. Ciascun cancello rappresenta una sfida elementale e biologica unica, progettata per trattenere l'umanità e far passare solo chi è autorizzato o degno:
+
+*   **The Sentinel's Gate** (Il Cancello della Sentinella): Costruito in solido ottone non magnetico e ingranaggi congelati. È difeso da un gigantesco guardiano a orologeria—il *Golem Sentinella del Muro di Ghiaccio*—che risponde solo alla *Chiave di Volta dei Primi Costruttori*. Senza la Chiave di Volta, la sentinella polverizzerà all'istante qualsiasi nave si avvicini.
+*   **The Serpent's Gate** (Il Cancello del Serpente): Un labirinto di stretti tunnel di ghiaccio tormentati da gelide bufere e dalla colossale *Regina dei Vermi dei Ghiacci*. I navigatori devono utilizzare una *Lanterna Squaglia-Brina a Vril* per aprirsi un varco sciogliendo le pareti di ghiaccio strutturale e accecare i sensi termici del verme per scivolare via indisturbati.
+*   **The Leviathan's Gate** (Il Cancello del Leviatano): Una fossa subglaciale completamente allagata in cui nidifica il mastodontico *Leviatano Subglaciale*. È necessario un *Emettitore Idro-Sonico* per proiettare onde sonore ad alta frequenza, respingendo il titano e aprendo temporaneamente le valvole di pressione subglaciale per consentire il passaggio di un'aeronave.
+*   **The Tiger's Gate** (Il Cancello della Tigre): Un canyon affilato come un rasoio e sferzato dal vento in cui spettrali *Spettri delle Brine dai Denti a Sciabola* si materializzano dal ghiaccio. L'*Amuleto Tessitore dei Venti* è essenziale per placare i venti di uragano locali, privando gli spettri del loro camuffamento elementale e consentendo agli esploratori di navigare il canyon in sicurezza.
 
 ## Capitolo 3: Asgardia e gli Anelli Iperborei
 **Tema**: High Fantasy, Mitologia Norrena, Scala Gigantesca.

@@ -100,3 +100,36 @@ Questa guida di riferimento descrive in dettaglio i materiali, le armi, le armat
 *   **Proprietà**:
     *   *Visione del Vero*: Come azione bonus, puoi attivare l'amuleto per guadagnare Visione del Vero entro un raggio di 18 metri per 1 minuto. Una volta utilizzata, questa proprietà non può essere riutilizzata fino all'alba successiva.
     *   *Egida di Basalto*: Quando vieni colpito da un attacco in mischia, puoi usare la tua reazione per trasformare temporaneamente la tua pelle in pietra. Ottieni resistenza ai danni contundenti, perforanti e taglienti da attacchi non magici fino all'inizio del tuo turno successivo.
+
+---
+
+## 🔑 Chiavi di Passaggio del Muro di Ghiaccio
+
+### **Chiave di Volta dei Primi Costruttori (Chiave per The Sentinel's Gate)**
+*Oggetto straordinario, leggendario (richiede sintonia)*
+*   **Descrizione**: Un antico disco ottagonale in ottone inciso con glifi geometrici luminescenti, lasciato dai Custodi per controllare i loro costrutti a orologeria.
+*   **Proprietà**:
+    *   *Comando della Sentinella*: Finché sei sintonizzato sulla Chiave di Volta, il *Golem Sentinella del Muro di Ghiaccio* entro 18 metri da te diventa completamente docile ed obbedisce ai tuoi comandi verbali.
+    *   *Apertura del Cancello*: Inserendo la Chiave di Volta nella scanalatura centrale del Sentinel's Gate, l'imponente barriera di ottone si apre per 1 ora.
+
+### **Lanterna Squaglia-Brina a Vril (Chiave per The Serpent's Gate)**
+*Oggetto straordinario, molto raro*
+*   **Descrizione**: Una pesante lanterna in ottone rivestita di piombo e dotata di una lente d'ingrandimento focalizzata, alimentata da una batteria di Vril raffinato.
+*   **Proprietà**:
+    *   *Proiezione Termica*: Mentre è attiva (consuma 1 carica da una batteria di Vril ogni 10 minuti), la lanterna proietta un fascio altamente concentrato di calore estremo in una linea di 18 metri. Questo raggio scioglie istantaneamente lastre di ghiaccio solido spesse fino a 1,5 metri per round, scavando un tunnel attraverso il Serpent's Gate.
+    *   *Sovraccarico Termico*: Se puntata direttamente contro la *Regina dei Vermi dei Ghiacci*, la creatura deve superare un TS su Costituzione con CD 16 o essere accecata per 1 minuto.
+
+### **Emettitore Idro-Sonico (Chiave per The Leviathan's Gate)**
+*Oggetto straordinario, molto raro*
+*   **Descrizione**: Un dispositivo a forma di campana di rame dotato di amplificatori ad induzione di Vril, progettato per propagare frequenze acustiche attraverso le acque subglaciali.
+*   **Proprietà**:
+    *   *Impulso Sonico Subglaciale*: Come azione, puoi attivare l'emettitore. Proietta un impulso idro-sonico in un cono di 36 metri sott'acqua.
+    *   *Deterrente per Leviatani*: Qualsiasi creatura con *Sensibilità Sonica* (come il *Leviatano Subglaciale*) all'interno del cono deve superare un TS su Saggezza con CD 16 o essere spaventata dalla sorgente dell'emettitore per 1 minuto e subire 4d6 danni da tuono.
+    *   *Attivatore di Valvole*: Indirizzare l'impulso contro le valvole di pressione subglaciale del Leviathan's Gate le costringe ad aprirsi per 10 minuti, alleviando la pressione dell'acqua e consentendo il passaggio.
+
+### **Amuleto Tessitore dei Venti (Chiave per The Tiger's Gate)**
+*Oggetto straordinario, molto raro (richiede sintonia)*
+*   **Descrizione**: Un ciondolo d'argento a forma di penna d'aquila, intarsiato con fibre di aerogel provenienti dalle foreste nuvolose di Venere.
+*   **Proprietà**:
+    *   *Calmare la Burrasca*: Finché sei sintonizzato sull'amuleto, puoi usare un'azione per proiettare una sfera di aria calma del raggio di 9 metri centrata su di te. All'interno di questa sfera, i venti di uragano e le bufere di neve locali vengono completamente soppressi.
+    *   *Rivelare il Camuffamento*: Calmare i venti della tempesta all'interno del canyon del Tiger's Gate rivela istantaneamente gli invisibili *Spettri delle Brine dai Denti a Sciabola*, privandoli del loro Camuffamento da Burrasca.

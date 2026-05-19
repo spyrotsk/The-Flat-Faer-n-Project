@@ -57,6 +57,56 @@
     *   *Lightning Breath*: 60-foot line, 8d8 lightning damage (DC 17 DEX save for half).
     *   *Wing Beat*: All creatures within 15 feet take 2d8 thunder damage and fall prone.
 
+### **Ice Wall Golem Sentinel (Sentinel's Gate)**
+*Huge construct, lawful neutral*
+*   **Armor Class**: 18 (Ice and Brass Plates)
+*   **Hit Points**: 165 (14d12 + 70)
+*   **Speed**: 30 ft.
+*   **Traits**:
+    *   *Keystone Attunement*: If a creature presents the *Keystone of the First Builders* within 60 feet, the Sentinel becomes docile and will not attack unless provoked.
+    *   *Immutable Form*: Immune to any spell or effect that would alter its form.
+*   **Actions**:
+    *   *Multiattack*: The Sentinel makes two Slam attacks.
+    *   *Slam*: +10 to hit, 3d10+6 bludgeoning damage.
+    *   *Freezing Gaze (Recharge 5-6)*: One target within 60 feet must make a DC 16 Constitution saving throw. On a failed save, the target takes 6d8 cold damage and is paralyzed (frozen) for 1 minute. The target can repeat the save at the end of each of its turns.
+
+### **Frost Worm Queen (Serpent's Gate)**
+*Gargantuan monstrosity, unaligned*
+*   **Armor Class**: 16 (Natural Armor)
+*   **Hit Points**: 195 (15d20 + 38)
+*   **Speed**: 40 ft., burrow 30 ft.
+*   **Traits**:
+    *   *Thermal Blindness*: The Queen has blindsight 60 ft. but is otherwise blind. While a *Rime-Melt Vril Lantern* is active within 60 feet, her thermal senses are overwhelmed, giving her disadvantage on all attack rolls.
+    *   *Tunneler*: Can burrow through solid ice, leaving a 10-foot-diameter tunnel.
+*   **Actions**:
+    *   *Bite*: +11 to hit, 3d12+7 piercing damage + 2d8 cold damage.
+    *   *Freezing Breath (Recharge 6)*: 60-foot cone, 10d8 cold damage (DC 17 Constitution save for half).
+
+### **Sub-Glacial Aquatic Leviathan (Leviathan's Gate)**
+*Gargantuan monstrosity, neutral evil*
+*   **Armor Class**: 17 (Natural Armor)
+*   **Hit Points**: 220 (16d20 + 52)
+*   **Speed**: Swim 80 ft.
+*   **Traits**:
+    *   *Sonic Sensitivity*: If subjected to sonic damage or the active pulse of a *Hydro-Sonic Emitter*, the Leviathan takes 1d10 extra psychic damage and must succeed on a DC 16 Wisdom save or be frightened of the emitter's source for 1 minute.
+    *   *Amphibious*: Can breathe air and water.
+*   **Actions**:
+    *   *Bite*: +12 to hit, 4d10+8 piercing damage. Target is grappled (escape DC 18) if it is a Large or smaller creature.
+    *   *Tail Slam*: +12 to hit, 3d12+8 bludgeoning damage.
+    *   *Abyssal Swallow*: The Leviathan swallows a Large or smaller creature grappled by it. A swallowed creature is blinded and restrained, has total cover against attacks, and takes 4d6 acid + 4d6 cold damage at the start of each of the Leviathan's turns.
+
+### **Phantasmal Rime-Tooth Specter (Tiger's Gate)**
+*Large undead (fiend), chaotic evil*
+*   **Armor Class**: 15 (Natural Armor)
+*   **Hit Points**: 90 (12d10 + 24)
+*   **Speed**: 50 ft.
+*   **Traits**:
+    *   *Gale Camouflage*: While local hurricane-force winds blow, the Specter is invisible. Using the *Wind-Weaver Gale Amulet* to calm the winds strips the Specter of its invisibility and reduces its AC to 12.
+    *   *Phasic Claws*: The Specter's claw attacks ignore physical armor (shields and armors grant no AC bonus against its claws).
+*   **Actions**:
+    *   *Phasic Claw*: +7 to hit, 2d8+4 cold damage + 2d6 necrotic damage.
+    *   *Howl of the Blizzard (1/Day)*: All non-undead creatures within 30 feet must succeed on a DC 14 Wisdom saving throw or take 3d6 psychic damage and be frightened for 1 minute.
+
 ---
 
 ## Region 3: Lemuria (The Lost Lands)

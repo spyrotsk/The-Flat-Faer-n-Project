@@ -23,10 +23,22 @@ The campaign starts in **London/Paris**, but not as we know them. Steam technolo
 
 The *Aetherius* crosses the Antarctic Circle.
 *   **Key Locations**:
-    *   **The Ice Bastions**: A 2-mile high wall of ice.
+    *   **The Ice Bastions**: A 2-mile high wall of ice. To cross the barrier, expedition forces must navigate one of the four legendary passage portals:
+        *   **The Sentinel's Gate**: Guarded by ancient mechanical defenses.
+        *   **The Serpent's Gate**: Winding ice tunnels infested with colossal frost worms.
+        *   **The Leviathan's Gate**: A submerged, sub-glacial canal guarded by aquatic horrors.
+        *   **The Tiger's Gate**: A razor-sharp, wind-swept canyon haunted by spectral sabertooth predators.
     *   **Station Zero**: An abandoned outpost from a lost 16th-century expedition.
 *   **The Conflict**: Sabotage on the ship damages the heating core. The crew must recover spare parts from Station Zero, which is infested with "Wendigos" (failed experiments of previous explorers).
 *   **Discovery**: The Ice Wall is not natural; it is a bio-engineered fence.
+
+### The Legend of the Four Gates
+According to ancient polar records recovered by Byrd's grandfather, the Ice Wall is not merely a solid block of ice, but a colossal, bio-engineered defensive shield constructed by the First Builders (the Keepers) eons ago to lock humanity inside the central dome. However, to allow their own vessels and servants to pass between the central simulation and the outer rings, the Keepers constructed four monumental portals: **The Sentinel's Gate**, **The Serpent's Gate**, **The Leviathan's Gate**, and **The Tiger's Gate**. Each gate represents a unique elemental and biological challenge, designed to keep humanity in and let only the authorized through:
+
+*   **The Sentinel's Gate**: Constructed of solid, non-magnetic brass and frozen gears. It is defended by a towering clockwork guardian—the *Ice Wall Golem Sentinel*—that responds only to the *Keystone of the First Builders*. Without the Keystone, the sentinel will instantly pulverize any approaching ship.
+*   **The Serpent's Gate**: A labyrinth of narrow ice tunnels plagued by freezing gales and the colossal *Frost Worm Queen*. Navigators must use a *Rime-Melt Vril Lantern* to blast a path through structural ice sheets and blind the worm's thermal senses to slip through.
+*   **The Leviathan's Gate**: A completely flooded, deep sub-glacial chasm where the titanic *Sub-Glacial Aquatic Leviathan* nests. The *Hydro-Sonic Emitter* is required to project high-frequency sound waves, repelling the titan and temporarily raising the sub-glacial pressure valves to let an airship pass.
+*   **The Tiger's Gate**: A razor-sharp, wind-swept canyon where phantasmal *Rime-Tooth Specters* materialize from the ice. The *Wind-Weaver Gale Amulet* is essential to calm the local hurricane-force winds, which strips the specters of their elemental camouflage and allows explorers to navigate the canyon safely.
 
 ## Chapter 3: Asgardia and the Hyperborean Rings
 **Theme**: High Fantasy, Norse Mythology, Gigantic Scale.

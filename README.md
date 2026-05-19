@@ -12,7 +12,7 @@ Welcome to **The Flat Faerûn Project**, a conspiratorial, steampunk, and high-f
 
 The year is 1830. The Napoleonic Wars did not end with a whimper, but with a revelation. A secret cartographer for the Crown discovered that the Earth does not end at the poles. The ice is merely a barrier—a **"Summer Gate"** to vast habitable continents beyond the known horizon.
 
-In this campaign, players embark as members of **"The Flight of the Eagle"**, a secret international expedition aboard the experimental steam-airship *Aetherius*. Their mission: cross the Antarctic Ice Wall, map the Unknown World (*Ignotum Mundo*), and secure its mystical resources before rival factions or the enigmatic **"Round Earth Cult"** can sabotage the journey.
+In this campaign, players embark as members of **"The Flight of the Eagle"**, a secret international expedition aboard the experimental steam-airship *Aetherius*. Their mission: cross the Antarctic Ice Wall through one of its four perilous passages—**"The Sentinel's Gate"**, **"The Serpent's Gate"**, **"The Leviathan's Gate"**, or **"The Tiger's Gate"**—map the Unknown World (*Ignotum Mundo*), and secure its mystical resources before rival factions or the enigmatic **"Round Earth Cult"** can sabotage the journey.
 
 ---
 

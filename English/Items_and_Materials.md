@@ -100,3 +100,36 @@ This reference guide details the unique materials, weaponry, armor, and wondrous
 *   **Properties**:
     *   *Truesight*: As a bonus action, you can activate the amulet to gain Truesight out to a range of 60 feet for 1 minute. Once used, this property cannot be used again until the next dawn.
     *   *Basalt Aegis*: When you are hit by a melee attack, you can use your reaction to turn your skin to stone. You gain resistance to bludgeoning, piercing, and slashing damage from non-magical attacks until the start of your next turn.
+
+---
+
+## 🔑 Ice Wall Passage Keys
+
+### **Keystone of the First Builders (Sentinel's Gate Key)**
+*Wondrous item, legendary (requires attunement)*
+*   **Description**: An ancient brass octagonal disk inscribed with glowing geometric glyphs, left behind by the Keepers to control their clockwork constructs.
+*   **Properties**:
+    *   *Sentinel Command*: While attuned to the Keystone, the *Ice Wall Golem Sentinel* within 60 feet of you becomes completely docile and obeys your verbal commands.
+    *   *Gate Opening*: Placing the Keystone into the central groove of the Sentinel's Gate opens the massive brass barrier for 1 hour.
+
+### **Rime-Melt Vril Lantern (Serpent's Gate Key)**
+*Wondrous item, very rare*
+*   **Description**: A heavy lead-lined brass lantern fitted with a focused magnifying lens, powered by a Refined Vril battery.
+*   **Properties**:
+    *   *Thermal Projection*: While active (costs 1 charge from a Vril battery per 10 minutes), the lantern projects a highly concentrated beam of extreme heat in a 60-foot line. This beam instantly melts solid ice sheets up to 5 feet thick per round, carving a tunnel through the Serpent's Gate.
+    *   *Thermal Overload*: If shone directly at the *Frost Worm Queen*, she must make a DC 16 Constitution saving throw or be blinded for 1 minute.
+
+### **Hydro-Sonic Emitter (Leviathan's Gate Key)**
+*Wondrous item, very rare*
+*   **Description**: A copper bell-shaped device equipped with Vril-induction amplifiers, designed to propagate acoustic frequencies through sub-glacial waters.
+*   **Properties**:
+    *   *Sub-Glacial Sonic Pulse*: As an action, you can activate the emitter. It projects a hydro-sonic pulse in a 120-foot cone underwater.
+    *   *Leviathan Repellent*: Any creature with *Sonic Sensitivity* (like the *Sub-Glacial Aquatic Leviathan*) within the cone must succeed on a DC 16 Wisdom saving throw or be frightened of the emitter's source for 1 minute and take 4d6 sonic damage.
+    *   *Vent Trigger*: Directing the pulse at the sub-glacial pressure valves of the Leviathan's Gate triggers them to open for 10 minutes, relieving water pressures and allowing passage.
+
+### **Wind-Weaver Gale Amulet (Tiger's Gate Key)**
+*Wondrous item, very rare (requires attunement)*
+*   **Description**: A silver pendant shaped like an eagle's feather, inlaid with aerogel fibers from the Venusian cloud-forests.
+*   **Properties**:
+    *   *Calm the Gale*: While attuned to the amulet, you can use an action to project a 30-foot radius sphere of calm air centered on yourself. Within this sphere, hurricane-force winds and snowstorms are completely suppressed.
+    *   *Dispel Camouflage*: Calming the gale winds within the Tiger's Gate canyon instantly reveals the invisible *Phantasmal Rime-Tooth Specters*, stripping them of their Gale Camouflage.

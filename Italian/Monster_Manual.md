@@ -57,6 +57,56 @@
     *   *Soffio di Fulmine*: Linea di 18 metri, 8d8 danni da fulmine (Dimezza con TS DES CD 17).
     *   *Battito d'Ali*: Tutte le creature entro 4,5 metri subiscono 2d8 danni da tuono e cadono prone.
 
+### **Golem Sentinella del Muro di Ghiaccio (Sentinel's Gate)**
+*Costrutto enorme, legale neutrale*
+*   **Classe Armatura**: 18 (Piastre di Bronzo e Ghiaccio)
+*   **Punti Ferita**: 165 (14d12 + 70)
+*   **Velocità**: 9 m
+*   **Tratti**:
+    *   *Sintonia con la Chiave di Volta*: Se una creatura presenta la *Chiave di Volta dei Primi Costruttori* entro 18 metri, il Golem diventa docile e non attacca a meno che non venga provocato.
+    *   *Forma Immutabile*: Immune a qualsiasi incantesimo o effetto che alteri la sua forma.
+*   **Azioni**:
+    *   *Multiattacco*: Il Golem effettua due attacchi di Schianto.
+    *   *Schianto*: +10 al tiro per colpire, 3d10+6 danni contundenti.
+    *   *Sguardo Congelante (Ricarica 5-6)*: Un bersaglio entro 18 metri deve effettuare un tiro salvezza su Costituzione con CD 16. Se lo fallisce, subisce 6d8 danni da freddo ed è paralizzato (congelato) per 1 minuto. Il bersaglio può ripetere il tiro salvezza alla fine di ogni suo turno.
+
+### **Regina dei Vermi dei Ghiacci (Serpent's Gate)**
+*Aberrazione mastodontica, senza allineamento*
+*   **Classe Armatura**: 16 (Armatura Naturale)
+*   **Punti Ferita**: 195 (15d20 + 38)
+*   **Velocità**: 12 m, scavare 9 m
+*   **Tratti**:
+    *   *Cecità Termica*: La Regina ha vista cieca entro 18 metri ma è altrimenti cieca. Mentre una *Lanterna Squaglia-Brina a Vril* è attiva entro 18 metri, i suoi sensi termici sono sovraccaricati, infliggendole svantaggio a tutti i tiri per colpire.
+    *   *Scavatore*: Può scavare attraverso il ghiaccio solido, lasciando un tunnel del diametro di 3 metri dietro di sé.
+*   **Azioni**:
+    *   *Morso*: +11 al tiro per colpire, 3d12+7 danni perforanti + 2d8 danni da freddo.
+    *   *Soffio Congelante (Ricarica 6)*: Cono di 18 metri, 10d8 danni da freddo (dimezza con TS Costituzione CD 17).
+
+### **Leviatano Subglaciale (Leviathan's Gate)**
+*Aberrazione mastodontica, neutrale malvagio*
+*   **Classe Armatura**: 17 (Armatura Naturale)
+*   **Punti Ferita**: 220 (16d20 + 52)
+*   **Velocità**: Nuotare 24 m
+*   **Tratti**:
+    *   *Sensibilità Sonica*: Se sottoposto a danni da tuono o al segnale attivo di un *Emettitore Idro-Sonico*, il Leviatano subisce 1d10 danni psichici extra e deve superare un TS su Saggezza con CD 16 o essere spaventato dalla sorgente dell'emettitore per 1 minuto.
+    *   *Anfibio*: Può respirare sia aria che acqua.
+*   **Azioni**:
+    *   *Morso*: +12 al tiro per colpire, 4d10+8 danni perforanti. Il bersaglio è afferrato (sfuggire CD 18) se è una creatura di taglia Grande o inferiore.
+    *   *Schianto di Coda*: +12 al tiro per colpire, 3d12+8 danni contundenti.
+    *   *Inghiottimento Abissale*: Il Leviatano inghiotte una creatura di taglia Grande o inferiore che ha afferrato. La creatura inghiottita è accecata e trattenuta, ha copertura totale dagli attacchi esterni e subisce 4d6 danni da acido + 4d6 danni da freddo all'inizio di ogni turno del Leviatano.
+
+### **Spettro delle Brine dai Denti a Sciabola (Tiger's Gate)**
+*Non morto grande (immondo), caotico malvagio*
+*   **Classe Armatura**: 15 (Armatura Naturale)
+*   **Punti Ferita**: 90 (12d10 + 24)
+*   **Velocità**: 15 m
+*   **Tratti**:
+    *   *Camuffamento da Burrasca*: Mentre soffiano i forti venti di uragano locali, lo Spettro è invisibile. L'uso dell'*Amuleto Tessitore dei Venti* per calmare la tempesta annulla l'invisibilità dello Spettro e riduce la sua CA a 12.
+    *   *Artigli Fasici*: Gli attacchi di artiglio dello Spettro ignorano le armature fisiche (gli scudi e le armature fisiche non concedono alcun bonus alla CA contro le sue ferite).
+*   **Azioni**:
+    *   *Artiglio Fasico*: +7 al tiro per colpire, 2d8+4 danni da freddo + 2d6 danni necrotici.
+    *   *Urlo della Tormenta (1/Giorno)*: Tutte le creature non appartenenti ai non morti entro 9 metri devono superare un tiro salvezza su Saggezza con CD 14 o subire 3d6 danni psichici ed essere spaventate per 1 minuto.
+
 ---
 
 ## Regione 3: Lemuria (Le Terre Perdute)

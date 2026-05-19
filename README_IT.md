@@ -12,7 +12,7 @@ Benvenuti nel **The Flat Faerûn Project**, un'ambientazione cospiratoria, steam
 
 L'anno è il 1830 d.C. Le guerre napoleoniche non si sono concluse con un sussulto, ma con una rivelazione. Un cartografo segreto della Corona ha scoperto che la Terra non finisce ai poli. Il ghiaccio è solo una barriera: un **"Summer Gate"** (Passaggio d'Estate) verso vasti continenti abitabili oltre l'orizzonte conosciuto.
 
-I giocatori fanno parte del **"Volo dell'Aquila"**, una spedizione scientifica e militare segreta a bordo dell'aeronave sperimentale a vapore *Aetherius*. La loro missione: superare il Circolo Polare Antartico, mappare il Mondo Sconosciuto (*Ignotum Mundo*) e rivendicare le sue risorse esotiche prima delle fazioni rivali o del misterioso **"Culto della Terra Tonda"**, pronto a tutto pur di mantenere l'umanità all'oscuro della verità.
+I giocatori fanno parte del **"Volo dell'Aquila"**, una spedizione scientifica e militare segreta a bordo dell'aeronave sperimentale a vapore *Aetherius*. La loro missione: superare il Circolo Polare Antartico attraversando uno dei quattro leggendari passaggi del Muro di Ghiaccio—**"The Sentinel's Gate"**, **"The Serpent's Gate"**, **"The Leviathan's Gate"** o **"The Tiger's Gate"**—mappare il Mondo Sconosciuto (*Ignotum Mundo*) e rivendicare le sue risorse esotiche prima delle fazioni rivali o del misterioso **"Culto della Terra Tonda"**, pronto a tutto pur di mantenere l'umanità all'oscuro della verità.
 
 ---
 
