@@ -63,7 +63,7 @@
 *   **Punti Ferita**: 165 (14d12 + 70)
 *   **Velocità**: 9 m
 *   **Tratti**:
-    *   *Sintonia con la Chiave di Volta*: Se una creatura presenta la *Chiave di Volta dei Primi Costruttori* entro 18 metri, il Golem diventa docile e non attacca a meno che non venga provocato.
+    *   *Aggiramento del Comando*: Se una creatura entro 18 metri presenta un ufficiale *Amuletto del Controllo dei Golem (Ferro)* o supera una prova di Intelligenza (Arcano) con CD 18 come azione, il Golem diventa docile e non attacca a meno che non venga provocato.
     *   *Forma Immutabile*: Immune a qualsiasi incantesimo o effetto che alteri la sua forma.
 *   **Azioni**:
     *   *Multiattacco*: Il Golem effettua due attacchi di Schianto.
@@ -76,7 +76,7 @@
 *   **Punti Ferita**: 195 (15d20 + 38)
 *   **Velocità**: 12 m, scavare 9 m
 *   **Tratti**:
-    *   *Cecità Termica*: La Regina ha vista cieca entro 18 metri ma è altrimenti cieca. Mentre una *Lanterna Squaglia-Brina a Vril* è attiva entro 18 metri, i suoi sensi termici sono sovraccaricati, infliggendole svantaggio a tutti i tiri per colpire.
+    *   *Cecità Termica*: La Regina ha vista cieca entro 18 metri ma è altrimenti cieca. Se bersagliata da un incantesimo di fuoco di 3° livello o superiore (come *Palla di Fuoco* o *Muro di Fuoco*) o da un oggetto magico di fuoco attivo (come una *Bacchetta delle Palle di Fuoco* o una *Lingua Fiammeggiante*) entro 18 metri, i suoi sensi termici sono sovraccaricati, infliggendole svantaggio a tutti i tiri per colpire fino alla fine del suo turno successivo.
     *   *Scavatore*: Può scavare attraverso il ghiaccio solido, lasciando un tunnel del diametro di 3 metri dietro di sé.
 *   **Azioni**:
     *   *Morso*: +11 al tiro per colpire, 3d12+7 danni perforanti + 2d8 danni da freddo.
@@ -88,7 +88,7 @@
 *   **Punti Ferita**: 220 (16d20 + 52)
 *   **Velocità**: Nuotare 24 m
 *   **Tratti**:
-    *   *Sensibilità Sonica*: Se sottoposto a danni da tuono o al segnale attivo di un *Emettitore Idro-Sonico*, il Leviatano subisce 1d10 danni psichici extra e deve superare un TS su Saggezza con CD 16 o essere spaventato dalla sorgente dell'emettitore per 1 minuto.
+    *   *Sensibilità Sonica*: Se sottoposto a danni da tuono (come da incantesimi *Frantumare* o *Onda Tonante*) o al suono di un ufficiale *Corno dell'Esplosione*, il Leviatano subisce 1d10 danni psichici extra e deve superare un TS su Saggezza con CD 16 o essere spaventato dalla sorgente per 1 minuto.
     *   *Anfibio*: Può respirare sia aria che acqua.
 *   **Azioni**:
     *   *Morso*: +12 al tiro per colpire, 4d10+8 danni perforanti. Il bersaglio è afferrato (sfuggire CD 18) se è una creatura di taglia Grande o inferiore.
@@ -101,7 +101,7 @@
 *   **Punti Ferita**: 90 (12d10 + 24)
 *   **Velocità**: 15 m
 *   **Tratti**:
-    *   *Camuffamento da Burrasca*: Mentre soffiano i forti venti di uragano locali, lo Spettro è invisibile. L'uso dell'*Amuleto Tessitore dei Venti* per calmare la tempesta annulla l'invisibilità dello Spettro e riduce la sua CA a 12.
+    *   *Camuffamento da Burrasca*: Mentre soffiano i forti venti di uragano locali, lo Spettro è invisibile. Un esploratore che calma i venti (utilizzando incantesimi come *Controllo dei Venti* o *Folata di Vento*) o utilizza oggetti come una *Gemma del Vedere* o una *Lanterna Rivelatrice* annulla l'invisibilità dello Spettro e riduce la sua CA a 12.
     *   *Artigli Fasici*: Gli attacchi di artiglio dello Spettro ignorano le armature fisiche (gli scudi e le armature fisiche non concedono alcun bonus alla CA contro le sue ferite).
 *   **Azioni**:
     *   *Artiglio Fasico*: +7 al tiro per colpire, 2d8+4 danni da freddo + 2d6 danni necrotici.

@@ -10,7 +10,7 @@ Questa guida di riferimento descrive in dettaglio i materiali, le armi, le armat
 *Minerale grezzo, rarità leggendaria*
 *   **Descrizione**: Un cristallo luminescente di colore verde lime che si trova in profonde vene sotterranee vicino alla Barriera di Ghiaccio e agli anelli iperborei. Emette un ronzio costante dovuto a radiazioni cosmiche ad alta frequenza.
 *   **Proprietà**:
-    *   *Energia Volatile*: Un personaggio che trasporta minerale di Vril grezzo deve superare un tiro salvezza su Costituzione con CD 13 alla fine di ogni 24 ore, o subire un livello di Sfinimento e ottenere una deformità estetica causata dalla *Mutazione da Vril* (es. vene luminescenti, pelle coriacea).
+    *   *Energia Volatile*: Un personaggio che trasporta minerale di Vril grezzo deve effettuare un tiro salvezza su Costituzione con CD 13 alla fine di ogni 24 ore, o subire un livello di Sfinimento e ottenere una deformità estetica causata dalla *Mutazione da Vril* (es. vene luminescenti, pelle coriacea).
     *   *Esplosivo*: Se esposto a danni da fuoco o da fulmine, un pezzo di Vril grezzo esplode. Tutte le creature entro 3 metri devono effettuare un tiro salvezza su Destrezza con CD 15, subendo 3d6 danni da forza con un tiro salvezza fallito, o la metà con uno superato.
 
 ### **Vril Raffinato (Batterie di Vril)**
@@ -103,33 +103,38 @@ Questa guida di riferimento descrive in dettaglio i materiali, le armi, le armat
 
 ---
 
-## 🔑 Chiavi di Passaggio del Muro di Ghiaccio
+## 🧭 Superare il Muro di Ghiaccio: Guida con D&D 5e Classico
 
-### **Chiave di Volta dei Primi Costruttori (Chiave per The Sentinel's Gate)**
-*Oggetto straordinario, leggendario (richiede sintonia)*
-*   **Descrizione**: Un antico disco ottagonale in ottone inciso con glifi geometrici luminescenti, lasciato dai Custodi per controllare i loro costrutti a orologeria.
-*   **Proprietà**:
-    *   *Comando della Sentinella*: Finché sei sintonizzato sulla Chiave di Volta, il *Golem Sentinella del Muro di Ghiaccio* entro 18 metri da te diventa completamente docile ed obbedisce ai tuoi comandi verbali.
-    *   *Apertura del Cancello*: Inserendo la Chiave di Volta nella scanalatura centrale del Sentinel's Gate, l'imponente barriera di ottone si apre per 1 ora.
+Per garantire che i personaggi standard di D&D 5e possano passare senza sforzo e senza dover ricominciare da capo alla campagna *Terra Infinita*, i quattro passaggi del Muro di Ghiaccio Antartico sono stati progettati per essere superati utilizzando abilità, incantesimi e oggetti magici ufficiali presenti nel *Manuale del Giocatore* e nella *Guida del Dungeon Master*:
 
-### **Lanterna Squaglia-Brina a Vril (Chiave per The Serpent's Gate)**
-*Oggetto straordinario, molto raro*
-*   **Descrizione**: Una pesante lanterna in ottone rivestita di piombo e dotata di una lente d'ingrandimento focalizzata, alimentata da una batteria di Vril raffinato.
-*   **Proprietà**:
-    *   *Proiezione Termica*: Mentre è attiva (consuma 1 carica da una batteria di Vril ogni 10 minuti), la lanterna proietta un fascio altamente concentrato di calore estremo in una linea di 18 metri. Questo raggio scioglie istantaneamente lastre di ghiaccio solido spesse fino a 1,5 metri per round, scavando un tunnel attraverso il Serpent's Gate.
-    *   *Sovraccarico Termico*: Se puntata direttamente contro la *Regina dei Vermi dei Ghiacci*, la creatura deve superare un TS su Costituzione con CD 16 o essere accecata per 1 minuto.
+### 1. Superare **The Sentinel's Gate**
+Il gigantesco guardiano a orologeria (**Golem Sentinella del Muro di Ghiaccio**) che blocca questo passaggio può essere gestito con le seguenti opzioni ufficiali:
+*   **Prove di Caratteristica**: Un ladro o un mago può usare un'azione per effettuare una prova di **Intelligenza (Arcano)** o **Destrezza (Arnesi da Scasso)** con CD 18 per manomettere il nucleo di controllo dell'energia del golem, disattivandolo temporaneamente per 1 ora.
+*   **Oggetti Magici Ufficiali**:
+    *   *Amuletto del Controllo dei Golem (Ferro)*: Rende docile la sentinella e permette di comandare i suoi movimenti.
+    *   *Rintocco dell'Apertura*: Emette una frequenza che sblocca il meccanismo del cancello per 10 minuti.
+*   **Incantesimi Ufficiali**: *Blocca Mostri* (5° livello) o *Telecinesi* (5° livello) possono immobilizzare il guardiano mentre la nave scivola oltre la barriera.
 
-### **Emettitore Idro-Sonico (Chiave per The Leviathan's Gate)**
-*Oggetto straordinario, molto raro*
-*   **Descrizione**: Un dispositivo a forma di campana di rame dotato di amplificatori ad induzione di Vril, progettato per propagare frequenze acustiche attraverso le acque subglaciali.
-*   **Proprietà**:
-    *   *Impulso Sonico Subglaciale*: Come azione, puoi attivare l'emettitore. Proietta un impulso idro-sonico in un cono di 36 metri sott'acqua.
-    *   *Deterrente per Leviatani*: Qualsiasi creatura con *Sensibilità Sonica* (come il *Leviatano Subglaciale*) all'interno del cono deve superare un TS su Saggezza con CD 16 o essere spaventata dalla sorgente dell'emettitore per 1 minuto e subire 4d6 danni da tuono.
-    *   *Attivatore di Valvole*: Indirizzare l'impulso contro le valvole di pressione subglaciale del Leviathan's Gate le costringe ad aprirsi per 10 minuti, alleviando la pressione dell'acqua e consentendo il passaggio.
+### 2. Liberare **The Serpent's Gate**
+Gli stretti blocchi di ghiaccio e i sensi termici della mastodontica **Regina dei Vermi dei Ghiacci** possono essere superati con il calore e il fuoco:
+*   **Prove di Caratteristica**: Un personaggio può effettuare una prova di **Saggezza (Sopravvivenza)** con CD 15 per identificare i punti di rottura naturali del ghiaccio, permettendo a un singolo colpo pesante o a un incantesimo di fuoco di causare un piccolo crollo, bloccando il passaggio alla Regina.
+*   **Oggetti Magici Ufficiali**:
+    *   *Bacchetta delle Palle di Fuoco* o *Collana delle Palle di Fuoco*: Lanciare palle di fuoco contro le barriere di ghiaccio strutturale le scioglie istantaneamente. I colpi diretti contro la Regina sovraccaricano e accecano i suoi sensi termici.
+    *   *Lingua Fiammeggiante* o *Bastone del Fuoco*: Il calore costante emanato da queste armi scioglie rapidamente le lastre di ghiaccio (3 metri per round).
+*   **Incantesimi Ufficiali**: *Palla di Fuoco*, *Muro di Fuoco* o *Raggio Rovente* infliggono danni raddoppiati alla barriera e accecano la Regina.
 
-### **Amuleto Tessitore dei Venti (Chiave per The Tiger's Gate)**
-*Oggetto straordinario, molto raro (richiede sintonia)*
-*   **Descrizione**: Un ciondolo d'argento a forma di penna d'aquila, intarsiato con fibre di aerogel provenienti dalle foreste nuvolose di Venere.
-*   **Proprietà**:
-    *   *Calmare la Burrasca*: Finché sei sintonizzato sull'amuleto, puoi usare un'azione per proiettare una sfera di aria calma del raggio di 9 metri centrata su di te. All'interno di questa sfera, i venti di uragano e le bufere di neve locali vengono completamente soppressi.
-    *   *Rivelare il Camuffamento*: Calmare i venti della tempesta all'interno del canyon del Tiger's Gate rivela istantaneamente gli invisibili *Spettri delle Brine dai Denti a Sciabola*, privandoli del loro Camuffamento da Burrasca.
+### 3. Navigare **The Leviathan's Gate**
+Il profondo canale subglaciale allagato e il temibile **Leviatano Subglaciale** possono essere gestiti con l'agilità del veicolo o con frequenze acustiche:
+*   **Prove di Caratteristica**: I piloti del sottomarino o dell'aeronave devono superare una prova di **Forza (Atletica)** o **Intelligenza (Veicoli - Acquatici/Volanti)** con CD 18 per manovrare il mezzo attraverso le violentissime correnti d'acqua ed evitare i blocchi di ghiaccio taglienti.
+*   **Oggetti Magici Ufficiali**:
+    *   *Corno dell'Esplosione*: Il potente boato sonico attiva istantaneamente l'apertura delle valvole di sfiato subglaciali del cancello e spaventa il *Leviatano*.
+    *   *Tridente del Comando dei Pesci*: Costringe il *Leviatano* a effettuare un TS su Saggezza con CD 15; se lo fallisce, è affascinato e obbedisce all'ordine di lasciar passare la nave.
+*   **Incantesimi Ufficiali**: *Frantumare* o *Onda Tonante* creano vibrazioni che aprono le valvole ed infliggono danni psichici al *Leviatano*, mettendolo in fuga.
+
+### 4. Attraversare **The Tiger's Gate**
+I venti gelidi e gli invisibili **Spettri delle Brine dai Denti a Sciabola** richiedono il controllo degli elementi e il potenziamento dei sensi:
+*   **Prove di Caratteristica**: Il navigatore può effettuare una prova di **Saggezza (Sopravvivenza)** o **Intelligenza (Natura)** con CD 16 per studiare i modelli di burrasca, trovando i canali di minor resistenza al vento ed evitando danni strutturali alla nave.
+*   **Oggetti Magici Ufficiali**:
+    *   *Gemma del Vedere* o *Lanterna Rivelatrice*: Rivela istantaneamente gli spettri invisibili all'interno della tempesta, rimuovendo il loro tratto speciale Camuffamento da Burrasca.
+    *   *Anello del Calore* o *Anello di Movimento Libero*: Protegge i personaggi dal freddo estremo del canyon e dalle penalità di movimento dovute alle forti raffiche.
+*   **Incantesimi Ufficiali**: *Controllo dei Venti* (5° livello) o *Folata di Vento* (2° livello) calmano temporaneamente le burrasche. Incantesimi come *Vedere l'Invisibilità* o *Fuoco Fatato* rivelano gli spettri.

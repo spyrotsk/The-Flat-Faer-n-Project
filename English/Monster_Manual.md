@@ -63,7 +63,7 @@
 *   **Hit Points**: 165 (14d12 + 70)
 *   **Speed**: 30 ft.
 *   **Traits**:
-    *   *Keystone Attunement*: If a creature presents the *Keystone of the First Builders* within 60 feet, the Sentinel becomes docile and will not attack unless provoked.
+    *   *Golem Command Bypass*: If a creature presents an official *Amulet of Golem Control (Iron)* or succeeds on a DC 18 Intelligence (Arcana) check as an action within 60 feet, the Sentinel becomes docile and will not attack unless provoked.
     *   *Immutable Form*: Immune to any spell or effect that would alter its form.
 *   **Actions**:
     *   *Multiattack*: The Sentinel makes two Slam attacks.
@@ -76,7 +76,7 @@
 *   **Hit Points**: 195 (15d20 + 38)
 *   **Speed**: 40 ft., burrow 30 ft.
 *   **Traits**:
-    *   *Thermal Blindness*: The Queen has blindsight 60 ft. but is otherwise blind. While a *Rime-Melt Vril Lantern* is active within 60 feet, her thermal senses are overwhelmed, giving her disadvantage on all attack rolls.
+    *   *Thermal Blindness*: The Queen has blindsight 60 ft. but is otherwise blind. If targeted by a fire spell of 3rd level or higher (like *Fireball* or *Wall of Fire*) or an active fire magic item (like a *Flame Tongue* or *Wand of Fireballs*) within 60 feet, her thermal senses are overwhelmed, giving her disadvantage on all attack rolls until the end of her next turn.
     *   *Tunneler*: Can burrow through solid ice, leaving a 10-foot-diameter tunnel.
 *   **Actions**:
     *   *Bite*: +11 to hit, 3d12+7 piercing damage + 2d8 cold damage.
@@ -88,7 +88,7 @@
 *   **Hit Points**: 220 (16d20 + 52)
 *   **Speed**: Swim 80 ft.
 *   **Traits**:
-    *   *Sonic Sensitivity*: If subjected to sonic damage or the active pulse of a *Hydro-Sonic Emitter*, the Leviathan takes 1d10 extra psychic damage and must succeed on a DC 16 Wisdom save or be frightened of the emitter's source for 1 minute.
+    *   *Sonic Sensitivity*: If subjected to thunder/sonic damage (like *Shatter* or *Thunderwave* spells) or the blast of an official *Horn of Blasting*, the Leviathan takes 1d10 extra psychic damage and must succeed on a DC 16 Wisdom save or be frightened of the source for 1 minute.
     *   *Amphibious*: Can breathe air and water.
 *   **Actions**:
     *   *Bite*: +12 to hit, 4d10+8 piercing damage. Target is grappled (escape DC 18) if it is a Large or smaller creature.
@@ -101,7 +101,7 @@
 *   **Hit Points**: 90 (12d10 + 24)
 *   **Speed**: 50 ft.
 *   **Traits**:
-    *   *Gale Camouflage*: While local hurricane-force winds blow, the Specter is invisible. Using the *Wind-Weaver Gale Amulet* to calm the winds strips the Specter of its invisibility and reduces its AC to 12.
+    *   *Gale Camouflage*: While local hurricane-force winds blow, the Specter is invisible. An explorer who calms the winds (using spells like *Control Winds* or *Gust of Wind*) or uses items like a *Gem of Seeing* or *Lantern of Revealing* strips the Specter of its invisibility and reduces its AC to 12.
     *   *Phasic Claws*: The Specter's claw attacks ignore physical armor (shields and armors grant no AC bonus against its claws).
 *   **Actions**:
     *   *Phasic Claw*: +7 to hit, 2d8+4 cold damage + 2d6 necrotic damage.
